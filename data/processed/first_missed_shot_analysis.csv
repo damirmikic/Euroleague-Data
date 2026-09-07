@@ -1,0 +1,681 @@
+season,game_code,matchup,player_id,player_name,player_team,first_miss_quarter,first_miss_minute,first_miss_clock,first_miss_type,first_miss_desc,was_first_shot_of_game,total_points_scored,fg2_made,fg2_attempted,fg3_made,fg3_attempted,ft_made,ft_attempted,total_fg_made,total_fg_attempted,fg_percentage,total_rebounds,assists,turnovers,steals,fouls_committed,final_score_a,final_score_b
+E2024,1,ALBA Berlin vs Panathinaikos AKTOR Athens,P002328,"GRIGONIS, MARIUS",Panathinaikos AKTOR Athens,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,0,1,1,4,0,0,1,5,20.0,2,1,2,0,1,77,87
+E2024,2,AS Monaco vs EA7 Emporio Armani Milan,PLCZ,"MOTIEJUNAS, DONATAS",AS Monaco,Q1,1,09:13,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,6,0,1,0,0,1,7,14.3,8,0,1,0,2,93,80
+E2024,3,Zalgiris Kaunas vs FC Barcelona,P003196,"HERNANGOMEZ, WILLY",FC Barcelona,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,3,6,0,0,2,4,3,6,50.0,1,1,0,0,2,74,67
+E2024,4,Baskonia Vitoria-Gasteiz vs Partizan Mozzart Bet Belgrade,P007230,"SEDEKERSKIS, TADAS",Baskonia Vitoria-Gasteiz,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,3,3,2,3,2,4,5,6,83.3,6,1,0,0,0,88,82
+E2024,5,FC Bayern Munich vs Real Madrid,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,3,4,1,3,2,2,4,7,57.1,3,2,3,1,2,97,89
+E2024,6,Maccabi Playtika Tel Aviv vs LDLC ASVEL Villeurbanne,PKIR,"KAHUDI, CHARLES",LDLC ASVEL Villeurbanne,Q1,1,09:10,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,1,0,0,0,0,0,1,0.0,0,0,0,0,0,89,82
+E2024,7,Fenerbahce Beko Istanbul vs Olympiacos Piraeus,P007982,"WILLIAMS-GOSS, NIGEL",Olympiacos Piraeus,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,2,6,0,1,2,2,2,7,28.6,1,2,2,0,1,82,71
+E2024,8,Paris Basketball vs Crvena Zvezda Meridianbet Belgrade,P010612,"CANAAN, ISAIAH",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,3,6,2,4,2,2,5,10,50.0,1,1,0,1,1,77,80
+E2024,9,Virtus Segafredo Bologna vs Anadolu Efes Istanbul,P009549,"CORDINIER, ISAIA",Virtus Segafredo Bologna,Q1,2,08:52,2FGA,Missed Two Pointer (0/1 -  0 pt),False,16,4,6,1,4,5,5,5,10,50.0,5,2,4,0,2,67,76
+E2024,10,AS Monaco vs Maccabi Playtika Tel Aviv,P011214,"RIVERO, JASIEL",Maccabi Playtika Tel Aviv,Q1,1,09:44,FTA,Missed Free Throw (1/2 -  1 pt),False,13,6,8,0,0,1,2,6,8,75.0,4,1,0,1,3,85,79
+E2024,11,Crvena Zvezda Meridianbet Belgrade vs Baskonia Vitoria-Gasteiz,P010612,"CANAAN, ISAIAH",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,19,3,5,3,6,4,5,6,11,54.5,0,2,0,1,2,78,71
+E2024,12,Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul,P009846,"BRYANT, ELIJAH",Anadolu Efes Istanbul,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,2,6,1,4,8,8,3,10,30.0,6,1,0,0,1,78,83
+E2024,13,LDLC ASVEL Villeurbanne vs Virtus Segafredo Bologna,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,5,10,0,0,7,8,5,10,50.0,3,5,0,0,1,87,85
+E2024,14,Panathinaikos AKTOR Athens vs FC Bayern Munich,P007866,"MITOGLOU, KONSTANTINOS",Panathinaikos AKTOR Athens,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,4,0,0,0,0,2,4,50.0,3,0,0,0,3,94,79
+E2024,15,Real Madrid vs Partizan Mozzart Bet Belgrade,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:15,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,2,7,1,3,3,3,3,10,30.0,3,0,1,0,0,93,86
+E2024,16,EA7 Emporio Armani Milan vs Paris Basketball,P004197,"OUATTARA, YAKUBA",Paris Basketball,Q1,1,09:27,2FGA,Missed Two Pointer (0/1 -  0 pt),True,0,0,3,0,1,0,0,0,4,0.0,1,0,0,0,1,79,74
+E2024,17,FC Barcelona vs ALBA Berlin,P012604,"WILLIAMS , TREVION",ALBA Berlin,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,4,6,0,2,0,0,4,8,50.0,3,0,3,0,3,88,73
+E2024,18,Olympiacos Piraeus vs Zalgiris Kaunas,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:13,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,4,0,1,11,13,3,5,60.0,11,1,1,1,1,74,68
+E2024,19,ALBA Berlin vs LDLC ASVEL Villeurbanne,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,5,1,5,8,10,4,10,40.0,7,2,3,2,1,84,79
+E2024,20,Fenerbahce Beko Istanbul vs Crvena Zvezda Meridianbet Belgrade,PLMG,"MARJANOVIC, BOBAN",Fenerbahce Beko Istanbul,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,0,0,1,0,0,0,0,0,1,0.0,0,0,0,0,1,57,76
+E2024,21,Olympiacos Piraeus vs EA7 Emporio Armani Milan,P000796,"MIROTIC, NIKOLA",EA7 Emporio Armani Milan,Q1,1,09:31,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,2,6,0,3,1,2,2,9,22.2,8,2,2,1,0,89,68
+E2024,22,Baskonia Vitoria-Gasteiz vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,13,2,4,3,10,0,0,5,14,35.7,6,4,1,0,1,76,72
+E2024,23,Paris Basketball vs Panathinaikos AKTOR Athens,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,4,9,2,7,2,2,6,16,37.5,8,1,3,1,1,84,80
+E2024,24,Virtus Segafredo Bologna vs Zalgiris Kaunas,P007513,"GIEDRAITIS, DOVYDAS",Zalgiris Kaunas,Q1,1,09:10,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,2,3,3,3,2,3,5,6,83.3,3,1,1,2,0,68,71
+E2024,25,FC Barcelona vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,1,6,1,3,6,9,2,9,22.2,1,1,3,2,1,86,71
+E2024,26,Partizan Mozzart Bet Belgrade vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,3,6,0,2,5,5,3,8,37.5,3,1,2,1,2,86,78
+E2024,27,Maccabi Playtika Tel Aviv vs Anadolu Efes Istanbul,P011219,"SORKIN, ROMAN",Maccabi Playtika Tel Aviv,Q1,1,09:15,2FGA,Missed Two Pointer (1/2 -  2 pt),False,9,2,6,1,2,2,3,3,8,37.5,0,0,2,0,3,93,91
+E2024,28,ALBA Berlin vs Fenerbahce Beko Istanbul,P002968,"SANLI, SERTAC",Fenerbahce Beko Istanbul,Q1,1,09:59,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,0,1,1,2,0,0,1,3,33.3,1,0,0,0,2,71,78
+E2024,29,EA7 Emporio Armani Milan vs Zalgiris Kaunas,P007513,"GIEDRAITIS, DOVYDAS",Zalgiris Kaunas,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,21,5,7,3,4,2,2,8,11,72.7,1,4,0,0,1,82,85
+E2024,30,FC Bayern Munich vs Paris Basketball,P010390,"HAYES, KEVARRIUS",Paris Basketball,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,1,2,0,0,2,2,1,2,50.0,2,1,0,0,2,109,107
+E2024,31,Real Madrid vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,13,1,3,3,5,2,2,4,8,50.0,4,0,0,0,2,90,86
+E2024,32,Maccabi Playtika Tel Aviv vs Partizan Mozzart Bet Belgrade,P007870,"DAVIES, BRANDON",Partizan Mozzart Bet Belgrade,Q1,1,09:03,2FGA,Missed Two Pointer (1/2 -  2 pt),False,9,4,11,0,1,1,3,4,12,33.3,1,3,0,1,2,79,91
+E2024,33,AS Monaco vs Virtus Segafredo Bologna,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:23,2FGA,Missed Two Pointer (0/1 -  0 pt),False,19,6,11,1,2,4,5,7,13,53.8,3,5,0,2,1,101,85
+E2024,34,Anadolu Efes Istanbul vs Olympiacos Piraeus,P009846,"BRYANT, ELIJAH",Anadolu Efes Istanbul,Q1,1,09:26,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,1,3,3,6,0,0,4,9,44.4,4,6,0,2,2,91,89
+E2024,35,Crvena Zvezda Meridianbet Belgrade vs FC Barcelona,P010106,"NUNEZ, JUAN",FC Barcelona,Q1,1,09:00,2FGA,Missed Two Pointer (0/1 -  0 pt),False,1,0,2,0,0,1,2,0,2,0.0,3,4,1,0,2,94,98
+E2024,36,LDLC ASVEL Villeurbanne vs Baskonia Vitoria-Gasteiz,P011948,"HOWARD, MARKUS",Baskonia Vitoria-Gasteiz,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,2,5,1,6,0,0,3,11,27.3,2,3,2,1,2,76,69
+E2024,37,Partizan Mozzart Bet Belgrade vs Virtus Segafredo Bologna,P012585,"MORGAN, MATTHEW",Virtus Segafredo Bologna,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,1,1,2,5,2,2,3,6,50.0,4,3,3,1,4,69,70
+E2024,38,AS Monaco vs Paris Basketball,P002581,"JAITEH, MAM",AS Monaco,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,6,12,0,0,1,2,6,12,50.0,10,0,0,0,2,80,87
+E2024,39,Zalgiris Kaunas vs Maccabi Playtika Tel Aviv,P011219,"SORKIN, ROMAN",Maccabi Playtika Tel Aviv,Q1,1,09:15,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,6,0,1,1,1,3,7,42.9,2,1,2,0,3,78,63
+E2024,40,EA7 Emporio Armani Milan vs Anadolu Efes Istanbul,P000796,"MIROTIC, NIKOLA",EA7 Emporio Armani Milan,Q1,2,08:56,3FGA,Missed Three Pointer (0/1 -  2 pt),False,29,4,8,4,8,9,11,8,16,50.0,4,1,3,0,0,84,96
+E2024,41,Baskonia Vitoria-Gasteiz vs ALBA Berlin,P011934,"WETZELL, YANNI",ALBA Berlin,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,3,5,0,0,3,4,3,5,60.0,7,2,1,0,2,80,57
+E2024,42,Real Madrid vs Crvena Zvezda Meridianbet Belgrade,P009213,"NDIAYE, ELI",Real Madrid,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,12,3,4,2,3,0,2,5,7,71.4,6,1,0,1,2,95,72
+E2024,43,Fenerbahce Beko Istanbul vs Panathinaikos AKTOR Athens,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,2,1,4,0,0,1,6,16.7,0,1,1,0,1,76,81
+E2024,44,FC Barcelona vs LDLC ASVEL Villeurbanne,P010545,"SAKO, NEAL",LDLC ASVEL Villeurbanne,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,6,9,0,0,5,7,6,9,66.7,9,0,1,1,3,90,83
+E2024,45,FC Bayern Munich vs Olympiacos Piraeus,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,20,5,8,2,3,4,6,7,11,63.6,5,1,2,1,2,84,80
+E2024,46,Anadolu Efes Istanbul vs FC Barcelona,P013363,"NWORA, JORDAN",Anadolu Efes Istanbul,Q1,1,09:28,3FGA,Missed Three Pointer (0/1 -  0 pt),False,13,5,6,1,5,0,0,6,11,54.5,6,0,6,1,1,88,97
+E2024,47,Fenerbahce Beko Istanbul vs Maccabi Playtika Tel Aviv,P007182,"BIRCH, KHEM",Fenerbahce Beko Istanbul,Q1,2,08:45,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,1,0,0,0,0,0,1,0.0,4,1,1,0,1,84,82
+E2024,48,Zalgiris Kaunas vs Crvena Zvezda Meridianbet Belgrade,P007513,"GIEDRAITIS, DOVYDAS",Zalgiris Kaunas,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,1,3,1,1,1,2,2,4,50.0,3,3,1,0,2,86,84
+E2024,49,ALBA Berlin vs Paris Basketball,P004197,"OUATTARA, YAKUBA",Paris Basketball,Q1,1,09:50,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,2,2,1,5,0,0,3,7,42.9,5,1,1,1,0,83,92
+E2024,50,Olympiacos Piraeus vs Real Madrid,P003583,"IBAKA, SERGE",Real Madrid,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,1,1,2,4,0,0,3,5,60.0,4,0,2,0,1,79,69
+E2024,51,Panathinaikos AKTOR Athens vs LDLC ASVEL Villeurbanne,P003526,"LIGHTY, DAVID",LDLC ASVEL Villeurbanne,Q1,1,09:21,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,1,1,1,2,2,2,2,3,66.7,0,2,0,0,2,92,68
+E2024,52,Baskonia Vitoria-Gasteiz vs EA7 Emporio Armani Milan,P011196,"HALL, DONTA",Baskonia Vitoria-Gasteiz,Q1,2,08:22,2FGA,Missed Two Pointer (1/2 -  2 pt),False,4,2,3,0,0,0,0,2,3,66.7,4,1,1,0,2,88,83
+E2024,53,Partizan Mozzart Bet Belgrade vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,15,5,9,0,5,5,7,5,14,35.7,2,4,2,0,2,74,79
+E2024,54,Virtus Segafredo Bologna vs FC Bayern Munich,P004508,"OBST, ANDREAS",FC Bayern Munich,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,1,0,3,0,0,1,4,25.0,1,0,2,0,3,84,87
+E2024,55,ALBA Berlin vs Anadolu Efes Istanbul,P012604,"WILLIAMS , TREVION",ALBA Berlin,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,6,11,1,3,1,3,7,14,50.0,8,2,6,0,2,70,86
+E2024,56,Olympiacos Piraeus vs FC Barcelona,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,3,6,1,4,0,0,4,10,40.0,5,1,0,1,4,95,74
+E2024,57,EA7 Emporio Armani Milan vs Virtus Segafredo Bologna,P001518,"RICCI, GIAMPAOLO",EA7 Emporio Armani Milan,Q1,1,09:27,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,4,1,3,0,0,2,7,28.6,3,1,1,0,4,99,90
+E2024,58,Maccabi Playtika Tel Aviv vs Real Madrid,P009213,"NDIAYE, ELI",Real Madrid,Q1,2,08:56,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,2,0,1,0,1,1,3,33.3,0,0,2,0,2,79,78
+E2024,59,Fenerbahce Beko Istanbul vs Partizan Mozzart Bet Belgrade,P011981,"JONES, TYRIQUE",Partizan Mozzart Bet Belgrade,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,4,9,0,0,1,2,4,9,44.4,4,0,1,1,2,89,72
+E2024,60,Zalgiris Kaunas vs AS Monaco,P009754,"LOYD, JORDAN",AS Monaco,Q1,2,08:04,2FGA,Missed Two Pointer (0/1 -  2 pt),False,18,4,5,1,5,7,7,5,10,50.0,4,4,1,2,3,63,62
+E2024,61,Crvena Zvezda Meridianbet Belgrade vs Panathinaikos AKTOR Athens,P009622,"BROWN, LORENZO",Panathinaikos AKTOR Athens,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,3,8,0,5,6,6,3,13,23.1,4,3,2,2,1,77,81
+E2024,62,LDLC ASVEL Villeurbanne vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,16,4,4,2,5,2,2,6,9,66.7,3,0,3,0,1,71,84
+E2024,63,Paris Basketball vs Baskonia Vitoria-Gasteiz,P012201,"MONEKE, CHIMA",Baskonia Vitoria-Gasteiz,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,19,4,6,0,4,11,11,4,10,40.0,12,0,3,2,0,67,65
+E2024,64,Anadolu Efes Istanbul vs AS Monaco,P012710,"OSMANI, ERCAN",Anadolu Efes Istanbul,Q1,1,09:36,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,2,2,1,2,4,4,3,4,75.0,2,0,2,1,2,69,81
+E2024,65,Crvena Zvezda Meridianbet Belgrade vs ALBA Berlin,P012604,"WILLIAMS, TREVION",ALBA Berlin,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,16,7,11,0,2,2,3,7,13,53.8,7,2,5,0,2,92,71
+E2024,66,EA7 Emporio Armani Milan vs Real Madrid,P003733,"ABALDE, ALBERTO",Real Madrid,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,2,1,1,0,0,2,3,66.7,0,1,1,0,1,85,76
+E2024,67,FC Bayern Munich vs Zalgiris Kaunas,P011987,"EDWARDS, CARSEN",FC Bayern Munich,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,24,5,10,4,9,2,2,9,19,47.4,5,5,2,1,3,77,74
+E2024,68,Paris Basketball vs Partizan Mozzart Bet Belgrade,P012610,"WARD, TYSON",Paris Basketball,Q1,1,09:29,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,1,3,1,6,2,2,2,9,22.2,5,1,0,0,4,74,71
+E2024,69,LDLC ASVEL Villeurbanne vs Fenerbahce Beko Istanbul,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,1,09:07,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,5,7,0,4,0,2,5,11,45.5,5,1,1,0,2,73,77
+E2024,70,Panathinaikos AKTOR Athens vs Olympiacos Piraeus,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,2,08:45,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,4,0,0,4,4,1,4,25.0,0,5,3,1,2,89,94
+E2024,71,FC Barcelona vs Baskonia Vitoria-Gasteiz,P012201,"MONEKE, CHIMA",Baskonia Vitoria-Gasteiz,Q1,2,08:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,3,4,0,3,4,5,3,7,42.9,6,3,0,1,1,91,68
+E2024,72,Virtus Segafredo Bologna vs Maccabi Playtika Tel Aviv,P011214,"RIVERO, JASIEL",Maccabi Playtika Tel Aviv,Q1,1,09:13,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,6,0,0,1,2,3,6,50.0,4,2,0,0,1,84,77
+E2024,73,Fenerbahce Beko Istanbul vs FC Bayern Munich,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:26,3FGA,Missed Three Pointer (0/1 -  0 pt),True,25,6,10,4,8,1,1,10,18,55.6,8,1,2,1,2,87,76
+E2024,74,AS Monaco vs Crvena Zvezda Meridianbet Belgrade,P013365,"BROWN, VITTO",AS Monaco,Q1,2,08:35,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,3,1,1,0,0,2,4,50.0,1,1,0,0,1,90,98
+E2024,75,ALBA Berlin vs EA7 Emporio Armani Milan,P008384,"PROCIDA, GABRIELE",ALBA Berlin,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,29,9,14,1,4,8,8,10,18,55.6,4,1,1,3,3,105,101
+E2024,76,Olympiacos Piraeus vs LDLC ASVEL Villeurbanne,P013380,"FOURNIER, EVAN",Olympiacos Piraeus,Q1,3,07:57,3FGA,Missed Three Pointer (0/1 -  2 pt),False,20,4,7,3,8,3,4,7,15,46.7,2,1,0,3,1,94,92
+E2024,77,Panathinaikos AKTOR Athens vs Maccabi Playtika Tel Aviv,P011209,"KALAITZAKIS, PANAGIOTIS",Panathinaikos AKTOR Athens,Q1,2,08:42,FTA,Missed Free Throw (0/1 -  0 pt),False,1,0,0,0,0,1,2,0,0,0.0,0,0,0,1,0,93,87
+E2024,78,Baskonia Vitoria-Gasteiz vs Anadolu Efes Istanbul,P013363,"NWORA, JORDAN",Anadolu Efes Istanbul,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,5,1,2,1,3,0,0,2,5,40.0,1,0,3,1,1,84,89
+E2024,79,Real Madrid vs Virtus Segafredo Bologna,P004888,"CLYBURN, WILL",Virtus Segafredo Bologna,Q1,1,09:10,2FGA,Missed Two Pointer (0/1 -  0 pt),False,15,3,6,3,5,0,0,6,11,54.5,3,1,1,1,1,98,86
+E2024,80,Partizan Mozzart Bet Belgrade vs FC Barcelona,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,17,3,4,3,6,2,2,6,10,60.0,7,1,0,2,3,79,87
+E2024,81,Paris Basketball vs Zalgiris Kaunas,P012622,"MITCHELL, MATTHEW",Zalgiris Kaunas,Q1,1,09:20,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,2,5,0,1,4,6,2,6,33.3,3,2,1,1,1,83,77
+E2024,82,LDLC ASVEL Villeurbanne vs Crvena Zvezda Meridianbet Belgrade,P006240,"PLAVSIC, UROS",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,4,0,0,0,0,1,4,25.0,0,0,0,0,0,77,74
+E2024,83,Baskonia Vitoria-Gasteiz vs AS Monaco,P008099,"STRAZEL, MATTHEW",AS Monaco,Q1,1,09:48,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,0,1,2,4,2,2,2,5,40.0,0,2,3,0,2,75,87
+E2024,84,FC Bayern Munich vs ALBA Berlin,P007201,"VOIGTMANN, JOHANNES",FC Bayern Munich,Q1,2,08:11,2FGA,Missed Two Pointer (1/2 -  2 pt),False,6,3,4,0,1,0,0,3,5,60.0,4,1,2,0,2,115,88
+E2024,85,Real Madrid vs Anadolu Efes Istanbul,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,3,7,2,10,1,1,5,17,29.4,5,3,3,3,2,64,74
+E2024,86,Maccabi Playtika Tel Aviv vs Olympiacos Piraeus,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,21,4,5,1,2,10,11,5,7,71.4,4,2,1,0,2,91,94
+E2024,87,Zalgiris Kaunas vs Fenerbahce Beko Istanbul,P008104,"ZAGARS, ARTURS",Fenerbahce Beko Istanbul,Q1,1,09:44,FTA,Missed Free Throw (0/1 -  0 pt),True,10,2,4,1,3,3,6,3,7,42.9,2,3,3,1,2,65,72
+E2024,88,FC Barcelona vs Paris Basketball,P012608,"SHORTS, TJ",Paris Basketball,Q1,2,08:41,2FGA,Missed Two Pointer (1/2 -  2 pt),False,24,6,10,1,1,9,11,7,11,63.6,1,9,3,3,3,87,103
+E2024,89,Partizan Mozzart Bet Belgrade vs EA7 Emporio Armani Milan,P006591,"NTILIKINA, FRANK",Partizan Mozzart Bet Belgrade,Q1,1,09:02,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,3,4,1,5,0,0,4,9,44.4,2,4,0,0,5,81,88
+E2024,90,Virtus Segafredo Bologna vs Panathinaikos AKTOR Athens,P001133,"SHENGELIA, TORNIKE",Virtus Segafredo Bologna,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,8,2,5,5,6,5,13,38.5,6,1,7,0,4,77,82
+E2024,91,Virtus Segafredo Bologna vs Fenerbahce Beko Istanbul,P006961,"BIBEROVIC, TARIK",Fenerbahce Beko Istanbul,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,1,2,2,5,3,3,3,7,42.9,4,3,4,0,2,82,86
+E2024,92,AS Monaco vs LDLC ASVEL Villeurbanne,P013371,"HARRISON, SHAQUILLE",LDLC ASVEL Villeurbanne,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,4,0,1,3,4,1,5,20.0,2,1,3,1,3,103,92
+E2024,93,Crvena Zvezda Meridianbet Belgrade vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,0,0,1,6,0,0,1,6,16.7,2,0,0,0,1,77,89
+E2024,94,Olympiacos Piraeus vs Baskonia Vitoria-Gasteiz,P008829,"PETERS, ALEC",Olympiacos Piraeus,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,6,6,0,3,0,0,6,9,66.7,5,2,1,0,2,92,69
+E2024,95,EA7 Emporio Armani Milan vs Maccabi Playtika Tel Aviv,P007519,"JOKUBAITIS, ROKAS",Maccabi Playtika Tel Aviv,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,1,4,1,2,4,4,2,6,33.3,2,10,1,0,2,98,86
+E2024,96,Real Madrid vs ALBA Berlin,P008173,"SPAGNOLO, MATTEO",ALBA Berlin,Q1,1,09:28,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,7,0,1,0,0,2,8,25.0,1,6,2,0,1,98,84
+E2024,97,Anadolu Efes Istanbul vs Paris Basketball,P012788,"OTURU, DAN",Anadolu Efes Istanbul,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,4,7,0,0,2,2,4,7,57.1,2,0,2,1,2,84,93
+E2024,98,Zalgiris Kaunas vs Panathinaikos AKTOR Athens,P012715,"MANEK, BRADY",Zalgiris Kaunas,Q1,1,09:48,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,0,1,4,0,0,1,4,25.0,1,3,1,0,4,84,77
+E2024,99,FC Bayern Munich vs FC Barcelona,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:18,3FGA,Missed Three Pointer (0/1 -  2 pt),False,10,4,5,0,3,2,2,4,8,50.0,4,0,1,0,3,100,78
+E2024,100,Zalgiris Kaunas vs Baskonia Vitoria-Gasteiz,P013403,"WALKER IV, LONNIE",Zalgiris Kaunas,Q1,2,08:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,19,4,8,2,8,5,6,6,16,37.5,2,3,1,0,2,70,83
+E2024,101,ALBA Berlin vs Maccabi Playtika Tel Aviv,P011934,"WETZELL, YANNI",ALBA Berlin,Q1,1,09:32,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,8,0,1,0,0,3,9,33.3,5,3,2,1,0,85,103
+E2024,102,Paris Basketball vs Virtus Segafredo Bologna,P004197,"OUATTARA, YAKUBA",Paris Basketball,Q1,2,08:42,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,2,1,2,0,0,2,4,50.0,0,0,0,1,1,81,78
+E2024,103,Partizan Mozzart Bet Belgrade vs Olympiacos Piraeus,P007870,"DAVIES, BRANDON",Partizan Mozzart Bet Belgrade,Q1,1,09:19,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,3,6,2,4,0,0,5,10,50.0,5,2,2,0,3,78,70
+E2024,104,Fenerbahce Beko Istanbul vs EA7 Emporio Armani Milan,P007182,"BIRCH, KHEM",Fenerbahce Beko Istanbul,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,2,0,0,0,0,1,2,50.0,2,1,1,0,3,85,91
+E2024,105,Crvena Zvezda Meridianbet Belgrade vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,6,8,0,2,2,3,6,10,60.0,5,2,5,0,1,101,77
+E2024,106,Panathinaikos AKTOR Athens vs AS Monaco,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:12,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,3,6,1,2,0,0,4,8,50.0,2,3,2,0,2,88,91
+E2024,107,FC Barcelona vs Real Madrid,P005928,"CAMPAZZO, FACUNDO",Real Madrid,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,3,4,3,8,3,4,6,12,50.0,5,10,4,2,2,90,97
+E2024,108,LDLC ASVEL Villeurbanne vs Anadolu Efes Istanbul,PKIR,"KAHUDI, CHARLES",LDLC ASVEL Villeurbanne,Q1,2,08:59,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,1,1,3,0,0,2,4,50.0,1,1,0,1,2,97,82
+E2024,109,Anadolu Efes Istanbul vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,27,12,15,0,2,3,5,12,17,70.6,8,5,2,1,2,101,90
+E2024,110,LDLC ASVEL Villeurbanne vs Real Madrid,P010316,"AJINCA, MELVIN",LDLC ASVEL Villeurbanne,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,0,0,2,0,0,0,2,0.0,0,0,0,0,0,80,78
+E2024,111,Panathinaikos AKTOR Athens vs FC Barcelona,P012712,"HERNANGOMEZ, JUANCHO",Panathinaikos AKTOR Athens,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,4,1,2,0,4,2,2,1,6,16.7,6,1,0,0,0,90,89
+E2024,112,Baskonia Vitoria-Gasteiz vs Fenerbahce Beko Istanbul,P004004,"GUDURIC, MARKO",Fenerbahce Beko Istanbul,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,2,5,2,4,0,0,4,9,44.4,2,3,2,2,2,88,76
+E2024,113,Partizan Mozzart Bet Belgrade vs Zalgiris Kaunas,P007029,"SIRVYDIS, DEIVIDAS",Zalgiris Kaunas,Q1,2,08:45,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,1,0,2,0,0,1,3,33.3,0,0,1,0,1,84,78
+E2024,114,Maccabi Playtika Tel Aviv vs Paris Basketball,P012610,"WARD, TYSON",Paris Basketball,Q1,1,09:18,3FGA,Missed Three Pointer (0/1 -  0 pt),False,14,4,4,2,7,0,0,6,11,54.5,5,1,0,1,3,81,93
+E2024,115,AS Monaco vs Olympiacos Piraeus,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,3,5,2,6,0,1,5,11,45.5,5,0,0,0,3,80,89
+E2024,116,EA7 Emporio Armani Milan vs Crvena Zvezda Meridianbet Belgrade,P004007,"DOBRIC, OGNJEN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,1,0,2,0,3,1,2,0,5,0.0,0,0,0,0,0,101,86
+E2024,117,Virtus Segafredo Bologna vs ALBA Berlin,P004888,"CLYBURN, WILL",Virtus Segafredo Bologna,Q1,1,09:28,3FGA,Missed Three Pointer (0/1 -  0 pt),False,23,8,11,2,11,1,1,10,22,45.5,7,1,0,1,2,88,90
+E2024,118,Zalgiris Kaunas vs Anadolu Efes Istanbul,P004887,"POIRIER, VINCENT",Anadolu Efes Istanbul,Q1,1,09:23,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,3,4,0,1,3,3,3,5,60.0,2,1,0,0,2,85,72
+E2024,119,FC Bayern Munich vs Baskonia Vitoria-Gasteiz,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,3,07:47,2FGA,Missed Two Pointer (1/2 -  2 pt),False,18,3,10,3,4,3,4,6,14,42.9,5,5,1,1,2,94,80
+E2024,120,Partizan Mozzart Bet Belgrade vs Panathinaikos AKTOR Athens,P011836,"MIKE, ISIAHA",Partizan Mozzart Bet Belgrade,Q1,2,08:48,3FGA,Missed Three Pointer (0/1 -  2 pt),False,2,1,1,0,1,0,0,1,2,50.0,1,1,0,1,0,91,73
+E2024,121,Real Madrid vs Fenerbahce Beko Istanbul,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:01,2FGA,Missed Two Pointer (0/1 -  0 pt),False,33,6,9,6,10,3,4,12,19,63.2,4,0,1,2,2,70,82
+E2024,122,Maccabi Playtika Tel Aviv vs FC Barcelona,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,18,7,10,1,5,1,2,8,15,53.3,9,4,3,1,1,86,88
+E2024,123,AS Monaco vs ALBA Berlin,P008384,"PROCIDA, GABRIELE",ALBA Berlin,Q1,1,09:04,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,2,0,3,3,3,2,5,40.0,2,2,0,2,1,100,80
+E2024,124,Olympiacos Piraeus vs Paris Basketball,P003941,"MILUTINOV, NIKOLA",Olympiacos Piraeus,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,1,5,0,0,4,6,1,5,20.0,9,0,0,1,2,90,96
+E2024,125,Virtus Segafredo Bologna vs Crvena Zvezda Meridianbet Belgrade,P009549,"CORDINIER, ISAIA",Virtus Segafredo Bologna,Q1,1,09:30,3FGA,Missed Three Pointer (0/1 -  0 pt),False,13,4,8,1,3,2,5,5,11,45.5,4,3,2,0,5,87,94
+E2024,126,EA7 Emporio Armani Milan vs LDLC ASVEL Villeurbanne,P010545,"SAKO, NEAL",LDLC ASVEL Villeurbanne,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,3,0,0,0,0,2,3,66.7,3,1,2,0,3,92,84
+E2024,127,Fenerbahce Beko Istanbul vs AS Monaco,P012515,"TARPEY, TERRY",AS Monaco,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,3,1,1,0,0,2,4,50.0,3,2,0,3,3,69,99
+E2024,128,ALBA Berlin vs Partizan Mozzart Bet Belgrade,P011836,"MIKE, ISIAHA",Partizan Mozzart Bet Belgrade,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,4,2,2,0,1,0,0,2,3,66.7,0,1,1,1,1,90,91
+E2024,129,Baskonia Vitoria-Gasteiz vs Virtus Segafredo Bologna,P013367,"FORREST, TRENT",Baskonia Vitoria-Gasteiz,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,2,3,1,3,2,2,3,6,50.0,1,2,2,0,1,81,82
+E2024,130,FC Bayern Munich vs Maccabi Playtika Tel Aviv,P013382,"RANDOLPH, LEVI",Maccabi Playtika Tel Aviv,Q1,1,09:12,3FGA,Missed Three Pointer (0/1 -  0 pt),False,20,2,5,4,6,4,4,6,11,54.5,3,1,2,2,2,98,93
+E2024,131,Real Madrid vs Zalgiris Kaunas,P009005,"DECK, GABRIEL",Real Madrid,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,3,6,1,1,1,3,4,7,57.1,0,1,2,0,3,83,92
+E2024,132,Anadolu Efes Istanbul vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,1,09:23,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,3,4,1,7,3,5,4,11,36.4,6,0,0,1,3,93,67
+E2024,133,Crvena Zvezda Meridianbet Belgrade vs Olympiacos Piraeus,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,19,7,10,1,3,2,2,8,13,61.5,10,1,4,0,0,87,73
+E2024,134,FC Barcelona vs EA7 Emporio Armani Milan,P012795,"ANDERSON, JUSTIN",FC Barcelona,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,6,3,6,2,2,6,12,50.0,5,1,0,0,1,81,94
+E2024,135,LDLC ASVEL Villeurbanne vs Paris Basketball,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,22,3,7,2,4,10,11,5,11,45.5,5,7,2,2,3,98,93
+E2024,136,AS Monaco vs FC Bayern Munich,P013365,"BROWN, VITTO",AS Monaco,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,3,0,3,0,0,1,6,16.7,4,0,2,1,2,93,74
+E2024,137,Panathinaikos AKTOR Athens vs EA7 Emporio Armani Milan,P003842,"LESSORT, MATHIAS",Panathinaikos AKTOR Athens,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,1,2,0,0,6,8,1,2,50.0,8,3,1,0,2,103,74
+E2024,138,FC Barcelona vs Fenerbahce Beko Istanbul,P000925,"VESELY, JAN",FC Barcelona,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,4,0,1,0,0,1,5,20.0,2,3,1,0,2,90,63
+E2024,139,Paris Basketball vs Real Madrid,P005791,"TAVARES, WALTER",Real Madrid,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,4,7,0,0,2,2,4,7,57.1,14,3,3,0,2,85,96
+E2024,140,ALBA Berlin vs Zalgiris Kaunas,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,5,8,0,0,9,12,5,8,62.5,6,0,2,1,1,66,86
+E2024,141,Maccabi Playtika Tel Aviv vs Baskonia Vitoria-Gasteiz,P013382,"RANDOLPH, LEVI",Maccabi Playtika Tel Aviv,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,1,5,0,3,2,2,1,8,12.5,2,1,0,3,2,85,95
+E2024,142,Anadolu Efes Istanbul vs Crvena Zvezda Meridianbet Belgrade,P011194,"PETRUSEV, FILIP",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,5,9,1,2,2,6,6,11,54.5,3,1,1,3,2,89,67
+E2024,143,Olympiacos Piraeus vs Virtus Segafredo Bologna,P013380,"FOURNIER, EVAN",Olympiacos Piraeus,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,20,4,8,4,9,0,1,8,17,47.1,5,7,2,1,1,87,77
+E2024,144,Partizan Mozzart Bet Belgrade vs LDLC ASVEL Villeurbanne,P013369,"JONES, CARLIK",Partizan Mozzart Bet Belgrade,Q1,2,08:46,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,10,0,1,0,0,3,11,27.3,2,6,2,2,0,79,82
+E2024,145,Panathinaikos AKTOR Athens vs Baskonia Vitoria-Gasteiz,P013367,"FORREST, TRENT",Baskonia Vitoria-Gasteiz,Q1,2,08:38,3FGA,Missed Three Pointer (0/1 -  0 pt),False,0,0,3,0,2,0,0,0,5,0.0,2,2,2,0,2,104,69
+E2024,146,Paris Basketball vs Fenerbahce Beko Istanbul,P007182,"BIRCH, KHEM",Fenerbahce Beko Istanbul,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,3,0,0,3,5,1,3,33.3,7,1,1,0,0,83,87
+E2024,147,Real Madrid vs AS Monaco,P012515,"TARPEY, TERRY",AS Monaco,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,0,1,0,0,2,2,0,1,0.0,1,1,0,2,2,94,72
+E2024,148,Anadolu Efes Istanbul vs Partizan Mozzart Bet Belgrade,P004887,"POIRIER, VINCENT",Anadolu Efes Istanbul,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,5,0,0,0,0,3,5,60.0,2,0,0,1,1,86,77
+E2024,149,Zalgiris Kaunas vs LDLC ASVEL Villeurbanne,P013403,"WALKER IV, LONNIE",Zalgiris Kaunas,Q1,2,08:01,3FGA,Missed Three Pointer (0/1 -  0 pt),False,0,0,2,0,3,0,0,0,5,0.0,3,4,2,0,2,72,78
+E2024,150,Virtus Segafredo Bologna vs FC Barcelona,P004888,"CLYBURN, WILL",Virtus Segafredo Bologna,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,3,6,0,4,0,0,3,10,30.0,2,2,1,2,3,86,81
+E2024,151,Olympiacos Piraeus vs ALBA Berlin,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,5,2,7,5,5,5,12,41.7,6,1,2,0,0,90,85
+E2024,152,Crvena Zvezda Meridianbet Belgrade vs Maccabi Playtika Tel Aviv,P011219,"SORKIN, ROMAN",Maccabi Playtika Tel Aviv,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,21,6,14,2,4,3,4,8,18,44.4,9,2,2,1,3,81,73
+E2024,153,EA7 Emporio Armani Milan vs FC Bayern Munich,P000796,"MIROTIC, NIKOLA",EA7 Emporio Armani Milan,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,18,2,4,1,7,11,11,3,11,27.3,5,6,2,0,3,78,79
+E2024,154,AS Monaco vs Anadolu Efes Istanbul,P009846,"BRYANT, ELIJAH",Anadolu Efes Istanbul,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,3,8,2,4,0,0,5,12,41.7,1,1,1,1,2,94,75
+E2024,155,ALBA Berlin vs Real Madrid,P005928,"CAMPAZZO, FACUNDO",Real Madrid,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,0,1,1,5,6,6,1,6,16.7,4,9,3,1,2,69,80
+E2024,156,EA7 Emporio Armani Milan vs Olympiacos Piraeus,P008985,"BOLMARO, LEANDRO",EA7 Emporio Armani Milan,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),False,14,4,6,2,3,0,0,6,9,66.7,0,6,2,1,2,83,84
+E2024,157,Maccabi Playtika Tel Aviv vs Zalgiris Kaunas,P013403,"WALKER IV, LONNIE",Zalgiris Kaunas,Q1,2,08:42,3FGA,Missed Three Pointer (0/1 -  0 pt),False,14,4,7,1,10,3,4,5,17,29.4,4,1,4,0,0,95,78
+E2024,158,FC Barcelona vs Crvena Zvezda Meridianbet Belgrade,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:33,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,3,6,0,3,0,0,3,9,33.3,4,3,4,0,0,74,78
+E2024,159,Partizan Mozzart Bet Belgrade vs Fenerbahce Beko Istanbul,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:20,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,2,1,4,1,2,2,6,33.3,3,8,1,0,2,90,81
+E2024,160,Baskonia Vitoria-Gasteiz vs Paris Basketball,P012597,"BALDWIN, KAMAR",Baskonia Vitoria-Gasteiz,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,3,4,0,2,2,4,3,6,50.0,2,0,2,0,3,94,81
+E2024,161,FC Bayern Munich vs Panathinaikos AKTOR Athens,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,6,9,0,3,2,2,6,12,50.0,6,2,0,2,4,69,80
+E2024,162,Virtus Segafredo Bologna vs LDLC ASVEL Villeurbanne,P009549,"CORDINIER, ISAIA",Virtus Segafredo Bologna,Q1,2,08:52,3FGA,Missed Three Pointer (1/2 -  3 pt),False,9,2,3,1,4,2,2,3,7,42.9,1,3,2,1,2,83,69
+E2024,163,Zalgiris Kaunas vs Olympiacos Piraeus,P008855,"WALKUP, THOMAS",Olympiacos Piraeus,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,5,9,1,3,0,0,6,12,50.0,2,5,1,1,2,85,92
+E2024,164,ALBA Berlin vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:07,3FGA,Missed Three Pointer (0/1 -  2 pt),False,23,5,10,3,7,4,6,8,17,47.1,4,7,2,0,1,90,105
+E2024,165,LDLC ASVEL Villeurbanne vs EA7 Emporio Armani Milan,P000796,"MIROTIC, NIKOLA",EA7 Emporio Armani Milan,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,4,7,2,4,4,4,6,11,54.5,8,3,2,1,1,66,75
+E2024,166,Baskonia Vitoria-Gasteiz vs Crvena Zvezda Meridianbet Belgrade,P009035,"BOLOMBOY, JOEL",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:03,3FGA,Missed Three Pointer (0/1 -  0 pt),False,16,8,11,0,1,0,0,8,12,66.7,8,0,1,1,4,73,75
+E2024,167,Fenerbahce Beko Istanbul vs Anadolu Efes Istanbul,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,2,8,1,5,5,5,3,13,23.1,6,3,3,1,1,84,76
+E2024,168,Panathinaikos AKTOR Athens vs Virtus Segafredo Bologna,P006739,"PAJOLA, ALESSANDRO",Virtus Segafredo Bologna,Q1,2,08:40,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,0,1,2,2,2,2,2,3,66.7,1,6,1,2,2,111,90
+E2024,169,Paris Basketball vs FC Barcelona,P009862,"PUNTER, KEVIN",FC Barcelona,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,4,9,1,8,1,1,5,17,29.4,4,3,0,1,4,79,90
+E2024,170,Partizan Mozzart Bet Belgrade vs Maccabi Playtika Tel Aviv,P007870,"DAVIES, BRANDON",Partizan Mozzart Bet Belgrade,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,5,10,2,3,0,0,7,13,53.8,3,1,2,2,3,98,75
+E2024,171,Real Madrid vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,2,5,1,4,4,7,3,9,33.3,4,3,2,0,1,88,76
+E2024,172,Fenerbahce Beko Istanbul vs ALBA Berlin,P008384,"PROCIDA, GABRIELE",ALBA Berlin,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,7,9,0,2,0,1,7,11,63.6,1,0,1,0,3,90,73
+E2024,173,AS Monaco vs FC Barcelona,PLCZ,"MOTIEJUNAS, DONATAS",AS Monaco,Q1,1,09:13,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,0,1,0,0,2,2,0,1,0.0,1,0,1,0,0,84,98
+E2024,174,Panathinaikos AKTOR Athens vs Partizan Mozzart Bet Belgrade,P007870,"DAVIES, BRANDON",Partizan Mozzart Bet Belgrade,Q1,1,09:12,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,7,11,1,2,2,2,8,13,61.5,3,1,2,2,1,96,84
+E2024,175,Maccabi Playtika Tel Aviv vs EA7 Emporio Armani Milan,P013382,"RANDOLPH, LEVI",Maccabi Playtika Tel Aviv,Q1,1,09:17,3FGA,Missed Three Pointer (0/1 -  0 pt),False,15,4,7,0,4,7,8,4,11,36.4,4,2,1,0,4,74,107
+E2024,176,Anadolu Efes Istanbul vs LDLC ASVEL Villeurbanne,P010316,"AJINCA, MELVIN",LDLC ASVEL Villeurbanne,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,0,1,2,3,0,0,2,4,50.0,1,0,0,0,4,76,82
+E2024,177,Zalgiris Kaunas vs Real Madrid,P012715,"MANEK, BRADY",Zalgiris Kaunas,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,0,0,1,2,0,0,1,2,50.0,0,0,2,2,1,64,83
+E2024,178,Crvena Zvezda Meridianbet Belgrade vs Paris Basketball,P010390,"HAYES, KEVARRIUS",Paris Basketball,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,4,9,0,0,5,6,4,9,44.4,7,0,0,0,1,85,69
+E2024,179,Olympiacos Piraeus vs FC Bayern Munich,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,45,10,10,8,10,1,1,18,20,90.0,7,2,1,0,0,112,69
+E2024,180,Virtus Segafredo Bologna vs Baskonia Vitoria-Gasteiz,P011196,"HALL, DONTA",Baskonia Vitoria-Gasteiz,Q1,1,09:03,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,5,6,0,0,0,0,5,6,83.3,2,0,1,2,0,76,74
+E2024,181,LDLC ASVEL Villeurbanne vs Partizan Mozzart Bet Belgrade,P013369,"JONES, CARLIK",Partizan Mozzart Bet Belgrade,Q1,2,08:54,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,5,0,2,0,0,3,7,42.9,3,9,0,0,2,62,93
+E2024,182,Baskonia Vitoria-Gasteiz vs Olympiacos Piraeus,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,19,5,9,2,6,3,3,7,15,46.7,5,2,1,2,2,101,102
+E2024,183,EA7 Emporio Armani Milan vs ALBA Berlin,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,4,8,0,0,3,5,4,8,50.0,2,1,0,1,4,100,68
+E2024,184,Paris Basketball vs Anadolu Efes Istanbul,P012613,"JANTUNEN, MIKAEL",Paris Basketball,Q1,1,09:09,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,2,4,2,4,0,0,4,8,50.0,2,0,0,0,3,88,84
+E2024,185,Real Madrid vs Maccabi Playtika Tel Aviv,P006540,"MUSA, DZANAN",Real Madrid,Q1,2,08:34,3FGA,Missed Three Pointer (0/1 -  2 pt),False,20,3,4,2,4,8,8,5,8,62.5,4,0,2,1,1,116,113
+E2024,186,Zalgiris Kaunas vs Virtus Segafredo Bologna,P005738,"GRAZULIS, ANDREJS",Virtus Segafredo Bologna,Q1,1,09:07,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,4,5,0,1,0,0,4,6,66.7,2,0,1,0,0,77,68
+E2024,187,Crvena Zvezda Meridianbet Belgrade vs Fenerbahce Beko Istanbul,P008104,"ZAGARS, ARTURS",Fenerbahce Beko Istanbul,Q1,2,08:55,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,0,1,1,1,1,3,1,2,50.0,0,5,0,2,3,91,96
+E2024,188,FC Barcelona vs Panathinaikos AKTOR Athens,P009862,"PUNTER, KEVIN",FC Barcelona,Q1,2,08:40,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,1,5,1,5,2,3,2,10,20.0,1,1,2,2,3,82,73
+E2024,189,FC Bayern Munich vs AS Monaco,P010391,"WEILER-BABB, NICK",FC Bayern Munich,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,2,3,4,7,2,2,6,10,60.0,0,6,2,3,3,95,94
+E2024,190,LDLC ASVEL Villeurbanne vs ALBA Berlin,P010545,"SAKO, NEAL",LDLC ASVEL Villeurbanne,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,2,4,0,0,5,6,2,4,50.0,7,1,1,0,1,96,89
+E2024,191,EA7 Emporio Armani Milan vs Partizan Mozzart Bet Belgrade,P011836,"MIKE, ISIAHA",Partizan Mozzart Bet Belgrade,Q1,1,09:33,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,0,0,2,0,0,0,2,0.0,1,0,2,1,1,70,90
+E2024,192,Paris Basketball vs Maccabi Playtika Tel Aviv,P012609,"MALCOLM, COLLIN",Paris Basketball,Q1,1,09:19,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,2,3,2,4,1,2,4,7,57.1,0,0,0,0,1,96,83
+E2024,193,Real Madrid vs Olympiacos Piraeus,P003733,"ABALDE, ALBERTO",Real Madrid,Q1,2,08:59,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,3,0,0,0,0,1,3,33.3,2,3,0,1,1,86,96
+E2024,194,Fenerbahce Beko Istanbul vs Zalgiris Kaunas,P008104,"ZAGARS, ARTURS",Fenerbahce Beko Istanbul,Q1,1,09:32,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,2,2,1,3,4,4,3,5,60.0,0,2,2,0,0,98,86
+E2024,195,Crvena Zvezda Meridianbet Belgrade vs AS Monaco,P004007,"DOBRIC, OGNJEN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,7,2,3,0,3,3,3,2,6,33.3,2,1,2,0,1,88,82
+E2024,196,Baskonia Vitoria-Gasteiz vs Panathinaikos AKTOR Athens,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:20,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,0,1,1,3,0,0,1,4,25.0,0,0,1,0,3,91,77
+E2024,197,FC Bayern Munich vs Virtus Segafredo Bologna,P001133,"SHENGELIA, TORNIKE",Virtus Segafredo Bologna,Q1,1,09:15,2FGA,Missed Two Pointer (0/1 -  0 pt),False,20,7,11,0,0,6,7,7,11,63.6,6,6,2,0,1,72,82
+E2024,198,FC Barcelona vs Anadolu Efes Istanbul,P012745,"PARKER, JABARI",FC Barcelona,Q1,2,08:57,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,0,2,1,3,1,1,1,5,20.0,2,2,1,1,2,90,80
+E2024,199,Anadolu Efes Istanbul vs EA7 Emporio Armani Milan,P008987,"LEDAY, ZACH",EA7 Emporio Armani Milan,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,4,8,0,3,2,2,4,11,36.4,3,1,1,0,1,110,66
+E2024,200,Panathinaikos AKTOR Athens vs Zalgiris Kaunas,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,3,3,0,5,0,0,3,8,37.5,3,5,1,0,4,89,76
+E2024,201,Virtus Segafredo Bologna vs AS Monaco,P009549,"CORDINIER, ISAIA",Virtus Segafredo Bologna,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,0,4,2,6,2,2,2,10,20.0,2,3,2,1,3,80,86
+E2024,202,Real Madrid vs Baskonia Vitoria-Gasteiz,P012597,"BALDWIN, KAMAR",Baskonia Vitoria-Gasteiz,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,2,7,0,2,0,2,2,9,22.2,1,4,0,1,2,90,89
+E2024,203,Maccabi Playtika Tel Aviv vs Crvena Zvezda Meridianbet Belgrade,P013382,"RANDOLPH, LEVI",Maccabi Playtika Tel Aviv,Q1,2,08:39,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,3,0,3,3,3,1,6,16.7,5,2,1,0,4,85,73
+E2024,204,ALBA Berlin vs FC Bayern Munich,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,2,08:58,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,5,7,0,1,0,1,5,8,62.5,8,0,2,1,2,84,99
+E2024,205,LDLC ASVEL Villeurbanne vs FC Barcelona,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,1,5,5,7,1,2,6,12,50.0,3,2,1,0,0,100,94
+E2024,206,Olympiacos Piraeus vs Fenerbahce Beko Istanbul,P001255,"PAPANIKOLAOU, KOSTAS",Olympiacos Piraeus,Q1,1,09:10,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,0,1,1,1,2,2,1,2,50.0,2,2,0,2,3,77,87
+E2024,207,Partizan Mozzart Bet Belgrade vs Paris Basketball,P011050,"KOPRIVICA, BALSA",Partizan Mozzart Bet Belgrade,Q1,1,09:37,FTA,Missed Free Throw (0/1 -  0 pt),True,1,0,0,0,0,1,2,0,0,0.0,0,0,0,0,1,92,86
+E2024,208,Zalgiris Kaunas vs FC Bayern Munich,P013403,"WALKER IV, LONNIE",Zalgiris Kaunas,Q1,1,09:18,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,1,3,1,4,1,1,2,7,28.6,1,2,1,4,1,82,97
+E2024,209,Baskonia Vitoria-Gasteiz vs FC Barcelona,P013367,"FORREST, TRENT",Baskonia Vitoria-Gasteiz,Q1,3,07:54,2FGA,Missed Two Pointer (0/1 -  0 pt),False,15,6,9,1,4,0,0,7,13,53.8,4,6,5,2,2,88,86
+E2024,210,EA7 Emporio Armani Milan vs Panathinaikos AKTOR Athens,P011064,"MANNION, NICCOLO",EA7 Emporio Armani Milan,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,1,4,2,4,6,7,3,8,37.5,2,3,2,1,1,87,75
+E2024,211,Paris Basketball vs LDLC ASVEL Villeurbanne,P011225,"LEE, PARIS",LDLC ASVEL Villeurbanne,Q1,1,09:04,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,2,1,2,0,0,3,4,75.0,1,3,2,0,0,91,82
+E2024,212,Maccabi Playtika Tel Aviv vs ALBA Berlin,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,3,5,0,0,0,1,3,5,60.0,4,1,1,0,4,87,93
+E2024,213,Fenerbahce Beko Istanbul vs Virtus Segafredo Bologna,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,4,5,1,3,1,1,5,8,62.5,5,1,1,1,2,95,81
+E2024,214,AS Monaco vs Real Madrid,P005844,"PAPAGIANNIS, GEORGIOS",AS Monaco,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,2,4,0,3,0,0,2,7,28.6,3,0,1,2,3,77,73
+E2024,215,Olympiacos Piraeus vs Anadolu Efes Istanbul,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,26,8,11,2,3,4,6,10,14,71.4,9,1,1,0,3,92,89
+E2024,216,Partizan Mozzart Bet Belgrade vs Crvena Zvezda Meridianbet Belgrade,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,3,07:38,3FGA,Missed Three Pointer (1/2 -  3 pt),False,11,3,7,1,4,2,2,4,11,36.4,1,6,3,0,1,71,73
+E2024,217,Anadolu Efes Istanbul vs Real Madrid,P005928,"CAMPAZZO, FACUNDO",Real Madrid,Q1,1,09:20,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,2,4,0,4,1,1,2,8,25.0,3,10,5,0,2,79,73
+E2024,218,Zalgiris Kaunas vs ALBA Berlin,P006251,"SCHNEIDER, TIM",ALBA Berlin,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,3,0,0,0,0,2,3,66.7,1,0,1,2,3,73,53
+E2024,219,Crvena Zvezda Meridianbet Belgrade vs LDLC ASVEL Villeurbanne,P009035,"BOLOMBOY, JOEL",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,7,0,1,1,1,3,8,37.5,10,1,2,2,0,73,66
+E2024,220,Panathinaikos AKTOR Athens vs Fenerbahce Beko Istanbul,P013383,"GABRIEL, WENYEN",Panathinaikos AKTOR Athens,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,3,8,0,0,2,2,3,8,37.5,6,0,1,0,4,91,90
+E2024,221,FC Bayern Munich vs EA7 Emporio Armani Milan,P008985,"BOLMARO, LEANDRO",EA7 Emporio Armani Milan,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,4,0,1,0,0,2,5,40.0,2,2,1,0,0,87,70
+E2024,222,AS Monaco vs Baskonia Vitoria-Gasteiz,P012080,"LUWAWU-CABARROT, TIMOTHE",Baskonia Vitoria-Gasteiz,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,1,4,2,5,2,2,3,9,33.3,2,3,4,1,3,92,85
+E2024,223,FC Barcelona vs Maccabi Playtika Tel Aviv,P002939,"SATORANSKY, TOMAS",FC Barcelona,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,4,0,1,0,0,2,5,40.0,4,6,3,0,1,100,71
+E2024,224,Paris Basketball vs Olympiacos Piraeus,P012608,"SHORTS, TJ",Paris Basketball,Q1,1,09:24,2FGA,Missed Two Pointer (0/1 -  0 pt),False,15,7,12,0,0,1,2,7,12,58.3,4,9,0,2,3,73,90
+E2024,225,Virtus Segafredo Bologna vs Partizan Mozzart Bet Belgrade,P011981,"JONES, TYRIQUE",Partizan Mozzart Bet Belgrade,Q1,1,09:19,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,5,9,0,0,2,3,5,9,55.6,12,1,3,1,1,71,81
+E2024,226,Fenerbahce Beko Istanbul vs Real Madrid,P003733,"ABALDE, ALBERTO",Real Madrid,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,3,3,0,3,0,0,3,6,50.0,6,1,2,1,1,78,67
+E2024,227,ALBA Berlin vs Crvena Zvezda Meridianbet Belgrade,P011194,"PETRUSEV, FILIP",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:29,FTA,Missed Free Throw (0/1 -  2 pt),False,17,5,10,0,1,7,10,5,11,45.5,4,2,3,2,1,71,77
+E2024,228,Zalgiris Kaunas vs EA7 Emporio Armani Milan,P007831,"SHIELDS, SHAVON",EA7 Emporio Armani Milan,Q1,2,08:50,2FGA,Missed Two Pointer (0/1 -  0 pt),False,17,6,9,1,4,2,4,7,13,53.8,4,4,3,0,2,87,89
+E2024,229,Panathinaikos AKTOR Athens vs Anadolu Efes Istanbul,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,36,7,10,5,11,7,7,12,21,57.1,4,2,2,2,0,104,89
+E2024,230,FC Bayern Munich vs LDLC ASVEL Villeurbanne,P003526,"LIGHTY, DAVID",LDLC ASVEL Villeurbanne,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,5,1,3,1,5,0,1,2,8,25.0,1,2,0,0,2,76,67
+E2024,231,AS Monaco vs Partizan Mozzart Bet Belgrade,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,1,09:21,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,1,0,2,0,0,1,3,33.3,3,0,0,1,1,69,86
+E2024,232,Baskonia Vitoria-Gasteiz vs Maccabi Playtika Tel Aviv,P011202,"SHAYOK, MARIAL",Maccabi Playtika Tel Aviv,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,2,5,2,5,0,0,4,10,40.0,3,0,0,2,3,89,82
+E2024,233,FC Barcelona vs Olympiacos Piraeus,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,4,6,2,3,0,0,6,9,66.7,1,0,0,0,1,88,90
+E2024,234,Virtus Segafredo Bologna vs Paris Basketball,P012610,"WARD, TYSON",Paris Basketball,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,1,1,1,4,2,2,2,5,40.0,4,2,1,1,2,77,83
+E2024,235,Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas,P011983,"BRAZDEIKIS, IGNAS",Zalgiris Kaunas,Q1,2,08:53,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,1,4,1,4,2,2,2,8,25.0,4,4,2,0,1,80,86
+E2024,236,EA7 Emporio Armani Milan vs AS Monaco,P007831,"SHIELDS, SHAVON",EA7 Emporio Armani Milan,Q1,1,09:14,3FGA,Missed Three Pointer (0/1 -  0 pt),False,19,4,7,3,4,2,5,7,11,63.6,9,5,1,0,1,86,80
+E2024,237,Paris Basketball vs FC Bayern Munich,P011987,"EDWARDS, CARSEN",FC Bayern Munich,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,29,10,13,2,7,3,6,12,20,60.0,5,2,2,0,1,93,88
+E2024,238,Real Madrid vs FC Barcelona,P012745,"PARKER, JABARI",FC Barcelona,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,3,7,4,6,0,0,7,13,53.8,3,1,5,1,3,96,91
+E2024,239,Maccabi Playtika Tel Aviv vs Fenerbahce Beko Istanbul,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,1,7,2,11,4,4,3,18,16.7,6,2,3,2,4,94,76
+E2024,240,Anadolu Efes Istanbul vs ALBA Berlin,P006251,"SCHNEIDER, TIM",ALBA Berlin,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,1,2,0,2,2,2,1,4,25.0,4,1,2,2,3,98,73
+E2024,241,Virtus Segafredo Bologna vs Olympiacos Piraeus,P013695,"HOLIDAY, JUSTIN",Virtus Segafredo Bologna,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,4,2,5,0,7,0,0,2,12,16.7,2,0,0,1,0,70,92
+E2024,242,Partizan Mozzart Bet Belgrade vs Baskonia Vitoria-Gasteiz,P013367,"FORREST, TRENT",Baskonia Vitoria-Gasteiz,Q1,1,09:32,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,4,11,0,2,2,3,4,13,30.8,7,6,2,1,0,86,73
+E2024,243,LDLC ASVEL Villeurbanne vs Panathinaikos AKTOR Athens,P011225,"LEE, PARIS",LDLC ASVEL Villeurbanne,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,0,2,2,4,0,0,2,6,33.3,0,3,2,2,2,93,96
+E2024,244,Paris Basketball vs AS Monaco,P012608,"SHORTS, TJ",Paris Basketball,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,6,11,0,1,7,8,6,12,50.0,1,5,5,1,2,79,91
+E2024,245,Panathinaikos AKTOR Athens vs Real Madrid,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,2,3,2,4,1,1,4,7,57.1,3,9,1,2,3,85,70
+E2024,246,Baskonia Vitoria-Gasteiz vs Zalgiris Kaunas,P002676,"BUTKEVICIUS, ARNAS",Zalgiris Kaunas,Q1,2,08:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,2,0,4,0,0,1,6,16.7,1,0,1,1,1,66,65
+E2024,247,EA7 Emporio Armani Milan vs Fenerbahce Beko Istanbul,P008987,"LEDAY, ZACH",EA7 Emporio Armani Milan,Q1,2,08:50,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,4,10,0,2,3,3,4,12,33.3,4,2,1,0,1,76,100
+E2024,248,FC Bayern Munich vs Crvena Zvezda Meridianbet Belgrade,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,4,8,1,3,0,1,5,11,45.5,0,3,3,2,3,100,82
+E2024,249,Anadolu Efes Istanbul vs Virtus Segafredo Bologna,P012710,"OSMANI, ERCAN",Anadolu Efes Istanbul,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,1,3,0,3,1,2,1,6,16.7,3,0,0,2,1,89,68
+E2024,250,LDLC ASVEL Villeurbanne vs Maccabi Playtika Tel Aviv,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,1,0,1,0,0,1,2,50.0,1,0,0,0,1,95,102
+E2024,251,Olympiacos Piraeus vs Partizan Mozzart Bet Belgrade,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,5,6,1,6,4,4,6,12,50.0,6,2,1,1,1,82,70
+E2024,252,ALBA Berlin vs FC Barcelona,P003478,"ABRINES, ALEX",FC Barcelona,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,1,0,3,0,0,0,4,0.0,6,0,2,1,3,85,99
+E2024,253,Fenerbahce Beko Istanbul vs LDLC ASVEL Villeurbanne,P005216,"MCCOLLUM, ERRICK",Fenerbahce Beko Istanbul,Q1,2,08:49,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,3,4,1,4,1,1,4,8,50.0,3,2,2,0,1,92,82
+E2024,254,Zalgiris Kaunas vs Paris Basketball,P012608,"SHORTS, TJ",Paris Basketball,Q1,1,09:31,2FGA,Missed Two Pointer (0/1 -  0 pt),False,21,6,17,1,1,6,8,7,18,38.9,2,4,5,2,1,83,81
+E2024,255,ALBA Berlin vs Baskonia Vitoria-Gasteiz,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,2,08:47,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,6,0,0,0,0,2,6,33.3,4,1,1,1,0,97,90
+E2024,256,Virtus Segafredo Bologna vs Real Madrid,P001133,"SHENGELIA, TORNIKE",Virtus Segafredo Bologna,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,8,2,5,0,1,4,4,2,6,33.3,7,1,3,1,1,67,80
+E2024,257,Maccabi Playtika Tel Aviv vs AS Monaco,P011219,"SORKIN, ROMAN",Maccabi Playtika Tel Aviv,Q1,1,09:14,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,3,10,2,5,6,6,5,15,33.3,7,1,0,2,2,91,88
+E2024,258,Crvena Zvezda Meridianbet Belgrade vs EA7 Emporio Armani Milan,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:48,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,3,0,2,0,0,2,5,40.0,1,2,4,1,4,80,82
+E2024,259,Olympiacos Piraeus vs Panathinaikos AKTOR Athens,P008811,"FALL, MOUSTAPHA",Olympiacos Piraeus,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,5,7,0,0,0,0,5,7,71.4,5,3,0,0,1,76,74
+E2024,260,FC Bayern Munich vs Anadolu Efes Istanbul,P011987,"EDWARDS, CARSEN",FC Bayern Munich,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,5,7,1,10,5,5,6,17,35.3,3,7,5,2,3,92,97
+E2024,261,FC Barcelona vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,2,5,4,7,0,0,6,12,50.0,2,2,3,2,3,87,80
+E2024,262,Paris Basketball vs EA7 Emporio Armani Milan,P007831,"SHIELDS, SHAVON",EA7 Emporio Armani Milan,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,3,7,1,4,1,1,4,11,36.4,9,2,3,1,3,92,79
+E2024,263,AS Monaco vs Fenerbahce Beko Istanbul,P011226,"DIALLO, ALPHA",AS Monaco,Q1,1,09:09,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,1,2,0,1,1,2,1,3,33.3,5,2,2,2,2,91,82
+E2024,264,Olympiacos Piraeus vs Crvena Zvezda Meridianbet Belgrade,P013380,"FOURNIER, EVAN",Olympiacos Piraeus,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,8,1,5,0,0,3,13,23.1,1,0,2,0,0,73,81
+E2024,265,Baskonia Vitoria-Gasteiz vs FC Bayern Munich,P012080,"LUWAWU-CABARROT, TIMOTHE",Baskonia Vitoria-Gasteiz,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,1,5,4,6,0,0,5,11,45.5,5,3,4,1,3,112,89
+E2024,266,Real Madrid vs LDLC ASVEL Villeurbanne,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,25,4,6,2,4,11,11,6,10,60.0,2,5,4,4,0,81,70
+E2024,267,Maccabi Playtika Tel Aviv vs Virtus Segafredo Bologna,P012604,"WILLIAMS, TREVION",Maccabi Playtika Tel Aviv,Q1,2,08:41,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,5,10,0,1,0,0,5,11,45.5,10,0,2,2,1,77,67
+E2024,268,Panathinaikos AKTOR Athens vs ALBA Berlin,P011934,"WETZELL, YANNI",ALBA Berlin,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,5,6,0,0,1,4,5,6,83.3,1,0,0,0,4,91,81
+E2024,269,FC Barcelona vs Zalgiris Kaunas,P011051,"SMAILAGIC, ALEN",Zalgiris Kaunas,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,3,5,0,3,2,2,3,8,37.5,1,1,0,3,3,82,70
+E2024,270,Partizan Mozzart Bet Belgrade vs Anadolu Efes Istanbul,P013369,"JONES, CARLIK",Partizan Mozzart Bet Belgrade,Q1,1,09:02,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,8,0,2,1,5,3,10,30.0,5,3,1,2,0,65,97
+E2024,271,Fenerbahce Beko Istanbul vs Paris Basketball,P004004,"GUDURIC, MARKO",Fenerbahce Beko Istanbul,Q1,1,09:53,3FGA,Missed Three Pointer (0/1 -  0 pt),True,25,6,7,4,8,1,2,10,15,66.7,2,2,1,1,1,101,100
+E2024,272,AS Monaco vs Zalgiris Kaunas,P011051,"SMAILAGIC, ALEN",Zalgiris Kaunas,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,15,4,7,2,4,1,1,6,11,54.5,3,1,1,0,3,96,86
+E2024,273,FC Barcelona vs FC Bayern Munich,P007201,"VOIGTMANN, JOHANNES",FC Bayern Munich,Q1,1,09:48,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,3,0,1,0,1,2,4,50.0,5,2,1,0,1,101,102
+E2024,274,LDLC ASVEL Villeurbanne vs Olympiacos Piraeus,P008811,"FALL, MOUSTAPHA",Olympiacos Piraeus,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,0,0,2,0,0,0,4,0,2,0.0,4,1,1,0,3,81,70
+E2024,275,Partizan Mozzart Bet Belgrade vs ALBA Berlin,P004761,"MARINKOVIC, VANJA",Partizan Mozzart Bet Belgrade,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,7,0,3,2,3,1,2,2,6,33.3,2,1,0,0,4,85,71
+E2024,276,Real Madrid vs EA7 Emporio Armani Milan,P005928,"CAMPAZZO, FACUNDO",Real Madrid,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,3,5,1,3,2,3,4,8,50.0,6,6,4,2,0,96,89
+E2024,277,Anadolu Efes Istanbul vs Baskonia Vitoria-Gasteiz,P011078,"THOMPSON, DARIUS",Anadolu Efes Istanbul,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,9,0,1,0,0,2,10,20.0,3,3,0,1,3,92,76
+E2024,278,Crvena Zvezda Meridianbet Belgrade vs Virtus Segafredo Bologna,P011194,"PETRUSEV, FILIP",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,5,8,1,3,3,6,6,11,54.5,4,6,0,1,2,88,52
+E2024,279,Maccabi Playtika Tel Aviv vs Panathinaikos AKTOR Athens,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,26,2,2,5,10,7,7,7,12,58.3,5,8,5,1,1,92,99
+E2024,280,LDLC ASVEL Villeurbanne vs Zalgiris Kaunas,P011983,"BRAZDEIKIS, IGNAS",Zalgiris Kaunas,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,5,9,0,2,1,2,5,11,45.5,6,1,2,2,0,88,79
+E2024,281,Olympiacos Piraeus vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,2,5,1,5,4,4,3,10,30.0,4,12,0,1,2,77,80
+E2024,282,EA7 Emporio Armani Milan vs FC Barcelona,P008987,"LEDAY, ZACH",EA7 Emporio Armani Milan,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,0,1,1,4,4,4,1,5,20.0,6,1,0,0,1,88,98
+E2024,283,FC Bayern Munich vs Partizan Mozzart Bet Belgrade,P004761,"MARINKOVIC, VANJA",Partizan Mozzart Bet Belgrade,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,2,2,1,4,0,0,3,6,50.0,1,0,1,1,2,89,74
+E2024,284,Anadolu Efes Istanbul vs Maccabi Playtika Tel Aviv,P006590,"BEAUBOIS, RODRIGUE",Anadolu Efes Istanbul,Q1,1,09:59,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,1,2,0,4,1,2,1,6,16.7,1,1,0,0,2,90,88
+E2024,285,Fenerbahce Beko Istanbul vs Baskonia Vitoria-Gasteiz,P013367,"FORREST, TRENT",Baskonia Vitoria-Gasteiz,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,3,7,1,2,3,4,4,9,44.4,4,12,1,0,3,82,77
+E2024,286,ALBA Berlin vs Virtus Segafredo Bologna,P004888,"CLYBURN, WILL",Virtus Segafredo Bologna,Q1,1,09:05,2FGA,Missed Two Pointer (0/1 -  0 pt),False,14,2,4,2,5,4,4,4,9,44.4,6,4,2,1,0,64,108
+E2024,287,Crvena Zvezda Meridianbet Belgrade vs Real Madrid,P000848,"NEDOVIC, NEMANJA",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,0,0,1,4,0,0,1,4,25.0,3,1,1,0,3,72,78
+E2024,288,Panathinaikos AKTOR Athens vs Paris Basketball,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,4,7,1,1,1,1,5,8,62.5,0,3,0,0,3,98,101
+E2024,289,AS Monaco vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,1,09:30,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,2,3,0,2,3,3,2,5,40.0,1,2,1,0,0,76,88
+E2024,290,Fenerbahce Beko Istanbul vs FC Barcelona,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,20,5,10,2,8,4,4,7,18,38.9,8,1,1,2,2,75,83
+E2024,291,Zalgiris Kaunas vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,2,5,1,4,0,0,3,9,33.3,3,3,3,0,2,70,66
+E2024,292,Real Madrid vs Paris Basketball,P012608,"SHORTS, TJ",Paris Basketball,Q1,2,08:37,3FGA,Missed Three Pointer (0/1 -  2 pt),False,24,6,10,3,6,3,3,9,16,56.2,1,10,6,2,4,105,104
+E2024,293,Maccabi Playtika Tel Aviv vs FC Bayern Munich,P007519,"JOKUBAITIS, ROKAS",Maccabi Playtika Tel Aviv,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,5,6,0,2,2,4,5,8,62.5,3,2,2,0,1,93,90
+E2024,294,ALBA Berlin vs Olympiacos Piraeus,P013386,"McCORMACK, DAVID",ALBA Berlin,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,2,3,0,0,4,4,2,3,66.7,2,0,1,0,3,92,100
+E2024,295,Crvena Zvezda Meridianbet Belgrade vs Anadolu Efes Istanbul,P007960,"DAVIDOVAC, DEJAN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,2,3,0,1,1,1,2,4,50.0,6,0,0,1,1,96,97
+E2024,296,Baskonia Vitoria-Gasteiz vs LDLC ASVEL Villeurbanne,P007027,"MALEDON, THEO",LDLC ASVEL Villeurbanne,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,2,5,2,4,3,4,4,9,44.4,2,4,0,1,1,111,75
+E2024,297,Virtus Segafredo Bologna vs EA7 Emporio Armani Milan,P009549,"CORDINIER, ISAIA",Virtus Segafredo Bologna,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,5,0,1,1,3,2,4,1,4,25.0,3,2,3,1,2,90,70
+E2024,298,FC Bayern Munich vs Fenerbahce Beko Istanbul,P011987,"EDWARDS, CARSEN",FC Bayern Munich,Q1,3,07:16,3FGA,Missed Three Pointer (0/1 -  0 pt),False,26,4,7,5,9,3,4,9,16,56.2,1,0,2,1,2,77,89
+E2024,299,Olympiacos Piraeus vs Maccabi Playtika Tel Aviv,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,2,0,5,0,0,1,7,14.3,1,0,1,0,1,99,93
+E2024,300,EA7 Emporio Armani Milan vs Baskonia Vitoria-Gasteiz,P008987,"LEDAY, ZACH",EA7 Emporio Armani Milan,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,32,6,10,6,10,2,3,12,20,60.0,5,2,0,0,1,111,89
+E2024,301,Partizan Mozzart Bet Belgrade vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,2,6,2,8,2,2,4,14,28.6,2,0,1,0,1,89,91
+E2024,302,Paris Basketball vs ALBA Berlin,P011934,"WETZELL, YANNI",ALBA Berlin,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,1,5,0,0,1,2,1,5,20.0,5,2,3,0,2,72,63
+E2024,303,Anadolu Efes Istanbul vs Zalgiris Kaunas,P011983,"BRAZDEIKIS, IGNAS",Zalgiris Kaunas,Q1,3,07:45,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,3,6,1,6,2,3,4,12,33.3,7,3,1,0,1,87,77
+E2024,304,LDLC ASVEL Villeurbanne vs AS Monaco,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,0,4,1,2,1,2,1,6,16.7,4,0,0,0,0,78,83
+E2024,305,Panathinaikos AKTOR Athens vs Crvena Zvezda Meridianbet Belgrade,P010588,"BROWN III, JOHN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:31,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,2,4,0,0,5,6,2,4,50.0,2,0,0,1,1,111,104
+E2024,306,FC Barcelona vs Virtus Segafredo Bologna,P001133,"SHENGELIA, TORNIKE",Virtus Segafredo Bologna,Q1,2,08:32,2FGA,Missed Two Pointer (0/1 -  0 pt),False,17,4,10,0,2,9,11,4,12,33.3,1,0,2,2,3,91,87
+E2024,307,Real Madrid vs Paris Basketball,P012611,"HERRERA, SEBASTIAN",Paris Basketball,Q1,1,09:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,1,1,3,0,0,2,4,50.0,1,0,0,0,4,73,81
+E2024,308,FC Bayern Munich vs Crvena Zvezda Meridianbet Belgrade,P010588,"BROWN III, JOHN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:12,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,2,0,0,0,0,0,2,0.0,2,0,3,0,2,97,93
+E2024,309,Real Madrid vs FC Bayern Munich,P007056,"BOOKER, DEVIN",FC Bayern Munich,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,2,7,2,4,0,0,4,11,36.4,3,1,2,1,3,93,71
+E2024,310,Olympiacos Piraeus vs Real Madrid,P007982,"WILLIAMS-GOSS, NIGEL",Olympiacos Piraeus,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,2,3,0,1,1,3,2,4,50.0,1,1,0,0,4,84,72
+E2024,311,AS Monaco vs FC Barcelona,P004132,"THEIS, DANIEL",AS Monaco,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,22,6,7,2,5,4,4,8,12,66.7,5,1,2,0,3,97,80
+E2024,312,Panathinaikos AKTOR Athens vs Anadolu Efes Istanbul,P004887,"POIRIER, VINCENT",Anadolu Efes Istanbul,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,7,8,0,0,3,4,7,8,87.5,8,2,3,1,1,87,83
+E2024,313,Fenerbahce Beko Istanbul vs Paris Basketball,P012610,"WARD, TYSON",Paris Basketball,Q1,1,09:50,3FGA,Missed Three Pointer (0/1 -  0 pt),True,19,4,4,3,7,2,2,7,11,63.6,5,1,1,0,2,83,78
+E2024,314,Olympiacos Piraeus vs Real Madrid,P007982,"WILLIAMS-GOSS, NIGEL",Olympiacos Piraeus,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,0,3,2,4,0,0,2,7,28.6,2,0,2,1,1,77,71
+E2024,315,AS Monaco vs FC Barcelona,P002939,"SATORANSKY, TOMAS",FC Barcelona,Q1,1,09:54,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,3,9,1,3,0,0,4,12,33.3,3,5,1,1,4,92,79
+E2024,316,Panathinaikos AKTOR Athens vs Anadolu Efes Istanbul,P004887,"POIRIER, VINCENT",Anadolu Efes Istanbul,Q1,1,09:53,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,7,11,0,0,2,4,7,11,63.6,10,1,0,0,2,76,79
+E2024,317,Fenerbahce Beko Istanbul vs Paris Basketball,P008962,"HAYES-DAVIS, NIGEL",Fenerbahce Beko Istanbul,Q1,2,08:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,16,4,6,1,5,5,5,5,11,45.5,7,2,0,1,0,89,72
+E2024,318,Real Madrid vs Olympiacos Piraeus,P007982,"WILLIAMS-GOSS, NIGEL",Olympiacos Piraeus,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,3,5,2,3,5,6,5,8,62.5,3,4,4,1,5,80,72
+E2024,319,FC Barcelona vs AS Monaco,P004132,"THEIS, DANIEL",AS Monaco,Q1,2,08:48,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,2,3,1,2,3,4,3,5,60.0,6,2,4,0,4,100,89
+E2024,320,Anadolu Efes Istanbul vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,1,09:10,3FGA,Missed Three Pointer (0/1 -  2 pt),False,9,2,3,1,3,2,2,3,6,50.0,4,0,0,1,1,77,81
+E2024,321,Paris Basketball vs Fenerbahce Beko Istanbul,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,1,09:33,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,1,0,2,0,0,1,3,33.3,2,0,0,0,2,88,98
+E2024,322,Real Madrid vs Olympiacos Piraeus,P011247,"FELIZ, ANDRES",Real Madrid,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,3,7,1,1,0,1,4,8,50.0,6,1,1,0,3,84,86
+E2024,323,FC Barcelona vs AS Monaco,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,2,08:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,3,5,0,3,2,2,3,8,37.5,4,0,0,0,2,79,72
+E2024,324,Anadolu Efes Istanbul vs Panathinaikos AKTOR Athens,P012710,"OSMANI, ERCAN",Anadolu Efes Istanbul,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,14,3,6,2,5,2,3,5,11,45.5,2,1,1,1,0,85,82
+E2024,325,AS Monaco vs FC Barcelona,P004132,"THEIS, DANIEL",AS Monaco,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,1,3,0,0,2,2,1,3,33.3,2,0,1,0,2,85,84
+E2024,326,Panathinaikos AKTOR Athens vs Anadolu Efes Istanbul,P012742,"DOZIER JR, PERRY",Anadolu Efes Istanbul,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,1,7,2,4,0,2,3,11,27.3,5,2,3,1,5,75,67
+E2024,327,Olympiacos Piraeus vs AS Monaco,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,2,4,0,6,3,5,2,10,20.0,8,1,2,2,4,68,78
+E2024,328,Fenerbahce Beko Istanbul vs Panathinaikos AKTOR Athens,P004004,"GUDURIC, MARKO",Fenerbahce Beko Istanbul,Q1,2,08:02,3FGA,Missed Three Pointer (0/1 -  0 pt),False,3,0,2,1,3,0,0,1,5,20.0,2,1,1,0,2,82,76
+E2024,329,Olympiacos Piraeus vs Panathinaikos AKTOR Athens,P008855,"WALKUP, THOMAS",Olympiacos Piraeus,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,1,0,1,0,0,0,2,0.0,1,8,1,1,3,97,93
+E2024,330,AS Monaco vs Fenerbahce Beko Istanbul,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:30,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,3,5,2,3,1,1,5,8,62.5,3,3,0,1,3,70,81
+E2025,1,Anadolu Efes Istanbul vs Maccabi Rapyd Tel Aviv,P007200,"LARKIN, SHANE",Anadolu Efes Istanbul,Q1,1,09:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,14,5,8,0,4,4,6,5,12,41.7,4,5,2,0,2,85,78
+E2025,2,Baskonia Vitoria-Gasteiz vs Olympiacos Piraeus,P011948,"HOWARD, MARKUS",Baskonia Vitoria-Gasteiz,Q1,1,09:33,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,0,1,4,11,0,0,4,12,33.3,0,2,2,0,4,96,102
+E2025,3,Crvena Zvezda Meridianbet Belgrade vs EA7 Emporio Armani Milan,P008985,"BOLMARO, LEANDRO",EA7 Emporio Armani Milan,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,2,5,1,1,2,2,3,6,50.0,5,2,1,0,1,82,92
+E2025,4,Dubai Basketball vs Partizan Mozzart Bet Belgrade,P012745,"PARKER, JABARI",Partizan Mozzart Bet Belgrade,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,3,6,1,3,2,2,4,9,44.4,4,2,2,0,2,89,76
+E2025,5,Hapoel IBI Tel Aviv vs FC Barcelona,P002939,"SATORANSKY, TOMAS",FC Barcelona,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,2,1,3,0,2,2,5,40.0,5,4,2,3,2,103,87
+E2025,6,Panathinaikos AKTOR Athens vs FC Bayern Munich,P012608,"SHORTS, TJ",Panathinaikos AKTOR Athens,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,0,0,3,0,1,0,0,0,4,0.0,0,3,1,0,0,87,79
+E2025,7,Virtus Bologna vs Real Madrid,P014006,"OKEKE, CHUMA",Real Madrid,Q1,1,09:44,FTA,Missed Free Throw (1/2 -  1 pt),False,6,1,3,1,5,1,2,2,8,25.0,7,0,1,1,2,74,68
+E2025,8,Fenerbahce Beko Istanbul vs Paris Basketball,P014124,"HORTON TUCKER, TALEN",Fenerbahce Beko Istanbul,Q1,2,08:27,3FGA,Missed Three Pointer (0/1 -  0 pt),False,20,4,4,2,6,6,7,6,10,60.0,2,2,5,1,3,96,77
+E2025,9,AS Monaco vs Zalgiris Kaunas,P011212,"OKOBO, ELIE",AS Monaco,Q1,1,09:07,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,3,10,1,2,0,0,4,12,33.3,0,7,0,0,1,84,89
+E2025,10,LDLC ASVEL Villeurbanne vs Valencia Basket,P010316,"AJINCA, MELVIN",LDLC ASVEL Villeurbanne,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,5,0,2,0,0,1,7,14.3,1,0,2,0,1,77,80
+E2025,11,FC Bayern Munich vs Crvena Zvezda Meridianbet Belgrade,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,2,5,4,8,2,2,6,13,46.2,4,4,3,0,2,97,88
+E2025,12,Partizan Mozzart Bet Belgrade vs EA7 Emporio Armani Milan,P012745,"PARKER, JABARI",Partizan Mozzart Bet Belgrade,Q1,2,08:39,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,1,3,2,3,2,2,3,6,50.0,1,0,1,0,4,80,78
+E2025,13,Real Madrid vs Olympiacos Piraeus,P011247,"FELIZ, ANDRES",Real Madrid,Q1,1,09:32,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,2,6,1,2,2,2,3,8,37.5,4,1,1,1,1,89,77
+E2025,14,Anadolu Efes Istanbul vs Hapoel IBI Tel Aviv,P012609,"MALCOLM, COLLIN",Hapoel IBI Tel Aviv,Q1,1,09:48,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,2,2,0,3,2,2,2,5,40.0,1,0,0,0,3,81,87
+E2025,15,Maccabi Rapyd Tel Aviv vs Paris Basketball,P014008,"ROBINSON, JUSTIN",Paris Basketball,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,15,5,10,1,3,2,3,6,13,46.2,3,3,3,0,1,94,101
+E2025,16,AS Monaco vs Dubai Basketball,P004132,"THEIS, DANIEL",AS Monaco,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,15,4,4,1,2,4,4,5,6,83.3,2,2,0,0,3,103,81
+E2025,17,LDLC ASVEL Villeurbanne vs Baskonia Vitoria-Gasteiz,P000229,"JACKSON, EDWIN",LDLC ASVEL Villeurbanne,Q1,2,08:15,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,6,1,5,1,2,2,11,18.2,2,2,3,0,0,102,95
+E2025,18,Panathinaikos AKTOR Athens vs FC Barcelona,P011085,"ROGKAVOPOULOS, NIKOLAOS",Panathinaikos AKTOR Athens,Q1,1,09:21,3FGA,Missed Three Pointer (0/1 -  0 pt),False,0,0,1,0,2,0,0,0,3,0.0,2,0,0,1,1,96,103
+E2025,19,Valencia Basket vs Virtus Bologna,P010750,"DE LARREA, SERGIO",Valencia Basket,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,23,3,6,5,7,2,3,8,13,61.5,3,2,2,1,0,103,94
+E2025,20,Zalgiris Kaunas vs Fenerbahce Beko Istanbul,P011927,"SLEVA, DUSTIN",Zalgiris Kaunas,Q1,1,09:16,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,2,4,0,1,0,0,2,5,40.0,3,0,1,1,2,84,81
+E2025,21,Hapoel IBI Tel Aviv vs Maccabi Rapyd Tel Aviv,P013284,"WAINRIGHT, ISH",Hapoel IBI Tel Aviv,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,0,1,0,3,2,2,0,4,0.0,1,2,0,1,1,90,103
+E2025,22,Baskonia Vitoria-Gasteiz vs Panathinaikos AKTOR Athens,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,30,9,13,3,7,3,3,12,20,60.0,7,2,4,0,4,84,86
+E2025,23,EA7 Emporio Armani Milan vs AS Monaco,P008985,"BOLMARO, LEANDRO",EA7 Emporio Armani Milan,Q1,1,09:51,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,1,4,2,3,0,0,3,7,42.9,1,0,1,0,3,79,82
+E2025,24,Paris Basketball vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,2,4,1,7,4,4,3,11,27.3,2,1,3,1,1,90,79
+E2025,25,Real Madrid vs LDLC ASVEL Villeurbanne,P010316,"AJINCA, MELVIN",LDLC ASVEL Villeurbanne,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,0,0,0,0,1,0,0,0,1,0.0,0,0,1,0,2,85,72
+E2025,26,Partizan Mozzart Bet Belgrade vs Anadolu Efes Istanbul,P012710,"OSMANI, ERCAN",Anadolu Efes Istanbul,Q1,1,09:27,3FGA,Missed Three Pointer (0/1 -  0 pt),False,21,3,5,3,10,6,8,6,15,40.0,5,2,2,1,2,93,87
+E2025,27,Olympiacos Piraeus vs Dubai Basketball,P003458,"BERTANS, DAVIS",Dubai Basketball,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,2,2,2,7,0,0,4,9,44.4,1,2,1,0,0,86,67
+E2025,28,FC Barcelona vs Valencia Basket,P009862,"PUNTER, KEVIN",FC Barcelona,Q1,1,09:26,3FGA,Missed Three Pointer (0/1 -  0 pt),False,27,8,10,2,5,5,5,10,15,66.7,1,7,2,0,1,108,102
+E2025,29,FC Bayern Munich vs Zalgiris Kaunas,P007982,"WILLIAMS-GOSS, NIGEL",Zalgiris Kaunas,Q1,1,09:24,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,4,1,1,0,0,2,5,40.0,0,1,1,0,1,70,98
+E2025,30,Fenerbahce Beko Istanbul vs Crvena Zvezda Meridianbet Belgrade,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:15,FTA,Missed Free Throw (1/2 -  1 pt),False,9,0,1,1,2,6,7,1,3,33.3,4,4,4,0,3,81,86
+E2025,31,Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,2,5,0,3,0,2,2,8,25.0,2,6,3,0,3,88,79
+E2025,32,FC Bayern Munich vs EA7 Emporio Armani Milan,P001288,"LUCIC, VLADIMIR",FC Bayern Munich,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,15,3,5,1,2,6,7,4,7,57.1,5,1,0,1,0,64,53
+E2025,33,Fenerbahce Beko Istanbul vs Dubai Basketball,P006661,"WILBEKIN, SCOTTIE",Fenerbahce Beko Istanbul,Q1,2,08:54,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,4,1,4,0,0,3,8,37.5,0,0,1,0,3,69,93
+E2025,34,Olympiacos Piraeus vs Anadolu Efes Istanbul,P012710,"OSMANI, ERCAN",Anadolu Efes Istanbul,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,4,6,1,2,1,2,5,8,62.5,3,0,0,1,5,78,82
+E2025,35,Maccabi Rapyd Tel Aviv vs FC Barcelona,P011193,"BLATT, TAMIR",Maccabi Rapyd Tel Aviv,Q1,1,09:30,3FGA,Missed Three Pointer (0/1 -  0 pt),False,15,1,1,2,6,7,9,3,7,42.9,0,4,5,0,0,71,92
+E2025,36,Panathinaikos AKTOR Athens vs LDLC ASVEL Villeurbanne,P014013,"WATSON, GLYNN",LDLC ASVEL Villeurbanne,Q1,3,07:55,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,2,3,2,2,0,0,4,5,80.0,2,2,1,0,3,91,85
+E2025,37,Paris Basketball vs Baskonia Vitoria-Gasteiz,P014027,"DIAKITE, MAMADI",Baskonia Vitoria-Gasteiz,Q1,1,09:22,FTA,Missed Free Throw (1/2 -  1 pt),False,1,0,0,0,1,1,2,0,1,0.0,3,1,2,0,3,105,87
+E2025,38,Real Madrid vs Partizan Mozzart Bet Belgrade,P006760,"BONGA, ISAAC",Partizan Mozzart Bet Belgrade,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,3,1,2,0,0,2,5,40.0,1,1,0,0,1,93,86
+E2025,39,Valencia Basket vs Hapoel IBI Tel Aviv,P011078,"THOMPSON, DARIUS",Valencia Basket,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,13,4,6,1,7,2,2,5,13,38.5,6,8,1,3,2,93,100
+E2025,40,Virtus Bologna vs AS Monaco,P011051,"SMAILAGIC, ALEN",Virtus Bologna,Q1,2,08:26,3FGA,Missed Three Pointer (1/2 -  3 pt),False,3,0,3,1,5,0,0,1,8,12.5,4,0,0,0,1,77,73
+E2025,41,Dubai Basketball vs FC Barcelona,P004888,"CLYBURN, WILL",FC Barcelona,Q1,1,09:16,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,3,5,0,3,1,5,3,8,37.5,3,0,1,1,2,83,78
+E2025,42,Fenerbahce Beko Istanbul vs FC Bayern Munich,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,10,3,4,1,4,1,1,4,8,50.0,5,3,1,0,2,88,73
+E2025,43,Maccabi Rapyd Tel Aviv vs Olympiacos Piraeus,P013403,"WALKER IV, LONNIE",Maccabi Rapyd Tel Aviv,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,4,8,1,5,4,7,5,13,38.5,1,3,3,3,1,94,95
+E2025,44,Zalgiris Kaunas vs EA7 Emporio Armani Milan,P007975,"FRANCISCO, SYLVAIN",Zalgiris Kaunas,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,0,3,2,8,2,4,2,11,18.2,2,6,2,0,1,78,89
+E2025,45,Anadolu Efes Istanbul vs Panathinaikos AKTOR Athens,P005353,"YURTSEVEN, OMER",Panathinaikos AKTOR Athens,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,6,7,0,0,3,3,6,7,85.7,4,2,0,1,2,81,95
+E2025,46,AS Monaco vs Valencia Basket,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,4,10,0,0,0,0,4,10,40.0,7,0,1,0,1,90,84
+E2025,47,Baskonia Vitoria-Gasteiz vs Partizan Mozzart Bet Belgrade,P011981,"JONES, TYRIQUE",Partizan Mozzart Bet Belgrade,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,5,10,0,0,0,0,5,10,50.0,7,2,1,1,2,79,91
+E2025,48,Crvena Zvezda Meridianbet Belgrade vs Real Madrid,P007027,"MALEDON, THEO",Real Madrid,Q1,1,09:10,FTA,Missed Free Throw (0/1 -  2 pt),False,7,3,6,0,3,1,3,3,9,33.3,2,3,0,2,2,90,75
+E2025,49,LDLC ASVEL Villeurbanne vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,36,7,10,5,12,7,8,12,22,54.5,1,1,2,1,1,83,90
+E2025,50,Paris Basketball vs Hapoel IBI Tel Aviv,P011949,"HOMMES, DAULTON",Paris Basketball,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,0,0,0,1,2,2,0,1,0.0,2,2,0,0,2,88,89
+E2025,51,Maccabi Rapyd Tel Aviv vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,24,7,11,3,9,1,3,10,20,50.0,9,3,4,0,1,92,91
+E2025,52,Crvena Zvezda Meridianbet Belgrade vs Baskonia Vitoria-Gasteiz,P014086,"DIALLO, HAMIDOU",Baskonia Vitoria-Gasteiz,Q1,1,09:09,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,5,12,0,2,2,4,5,14,35.7,4,1,0,1,5,90,72
+E2025,53,EA7 Emporio Armani Milan vs Valencia Basket,P007831,"SHIELDS, SHAVON",EA7 Emporio Armani Milan,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,2,5,1,5,4,7,3,10,30.0,5,7,0,0,4,100,103
+E2025,54,FC Barcelona vs Zalgiris Kaunas,P007982,"WILLIAMS-GOSS, NIGEL",Zalgiris Kaunas,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,2,3,0,0,0,0,2,3,66.7,1,0,0,0,1,73,88
+E2025,55,Hapoel IBI Tel Aviv vs AS Monaco,P000796,"MIROTIC, NIKOLA",AS Monaco,Q1,1,09:27,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,1,3,1,5,1,2,2,8,25.0,2,0,1,0,2,85,77
+E2025,56,LDLC ASVEL Villeurbanne vs Dubai Basketball,P012796,"KABENGELE, MFIONDU",Dubai Basketball,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,20,8,12,0,2,4,6,8,14,57.1,4,0,1,1,1,85,79
+E2025,57,Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul,P012613,"JANTUNEN, MIKAEL",Fenerbahce Beko Istanbul,Q1,1,09:05,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,1,0,1,0,0,0,2,0.0,0,0,1,0,2,69,79
+E2025,58,FC Bayern Munich vs Olympiacos Piraeus,P004863,"JOVIC, STEFAN",FC Bayern Munich,Q1,2,08:31,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,1,1,4,0,0,2,5,40.0,2,4,1,0,1,71,96
+E2025,59,Partizan Mozzart Bet Belgrade vs Paris Basketball,P013370,"WASHINGTON, DUANE",Partizan Mozzart Bet Belgrade,Q1,2,09:00,2FGA,Missed Two Pointer (0/1 -  0 pt),False,16,3,9,3,9,1,1,6,18,33.3,1,5,4,2,2,83,101
+E2025,60,Virtus Bologna vs Panathinaikos AKTOR Athens,P005422,"JALLOW, KARIM",Virtus Bologna,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,3,7,1,2,0,2,4,9,44.4,5,2,1,0,3,92,75
+E2025,61,Baskonia Vitoria-Gasteiz vs Dubai Basketball,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:12,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,8,1,4,1,1,2,12,16.7,5,0,3,1,3,92,85
+E2025,62,Crvena Zvezda Meridianbet Belgrade vs LDLC ASVEL Villeurbanne,P014013,"WATSON, GLYNN",LDLC ASVEL Villeurbanne,Q1,2,08:54,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,1,1,0,2,2,2,1,3,33.3,1,2,3,3,1,79,65
+E2025,63,FC Barcelona vs EA7 Emporio Armani Milan,P007056,"BOOKER, DEVIN",EA7 Emporio Armani Milan,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,4,8,1,4,0,0,5,12,41.7,4,1,1,1,2,74,72
+E2025,64,FC Bayern Munich vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,2,7,1,3,0,0,3,10,30.0,4,1,1,0,2,90,84
+E2025,65,Panathinaikos AKTOR Athens vs Maccabi Rapyd Tel Aviv,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,2,08:55,2FGA,Missed Two Pointer (0/1 -  0 pt),False,22,5,15,4,8,0,0,9,23,39.1,3,4,1,1,2,99,85
+E2025,66,Paris Basketball vs Anadolu Efes Istanbul,P012640,"HIFI, NADIR",Paris Basketball,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,2,8,0,8,13,13,2,16,12.5,1,5,2,1,0,80,90
+E2025,67,Valencia Basket vs Fenerbahce Beko Istanbul,P010042,"MONTERO, JEAN",Valencia Basket,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,2,6,1,5,5,5,3,11,27.3,1,5,1,0,2,94,79
+E2025,68,Zalgiris Kaunas vs Virtus Bologna,P007975,"FRANCISCO, SYLVAIN",Zalgiris Kaunas,Q1,1,09:42,FTA,Missed Free Throw (0/1 -  2 pt),False,23,4,5,3,6,6,8,7,11,63.6,3,10,1,1,2,86,65
+E2025,69,Hapoel IBI Tel Aviv vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,19,5,11,3,7,0,0,8,18,44.4,4,3,1,3,1,97,84
+E2025,70,Olympiacos Piraeus vs AS Monaco,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:50,2FGA,Missed Two Pointer (0/1 -  0 pt),True,23,8,10,1,4,4,6,9,14,64.3,3,5,1,0,2,87,92
+E2025,71,EA7 Emporio Armani Milan vs Paris Basketball,P012640,"HIFI, NADIR",Paris Basketball,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,24,7,13,2,10,4,4,9,23,39.1,6,2,2,0,4,86,77
+E2025,72,FC Bayern Munich vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:45,3FGA,Missed Three Pointer (0/1 -  0 pt),True,16,5,11,2,8,0,0,7,19,36.8,1,1,2,0,3,86,70
+E2025,73,Maccabi Rapyd Tel Aviv vs Crvena Zvezda Meridianbet Belgrade,PLCZ,"MOTIEJUNAS, DONATAS",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,4,8,0,1,3,6,4,9,44.4,3,1,1,0,2,92,99
+E2025,74,Real Madrid vs Fenerbahce Beko Istanbul,P009863,"BALDWIN IV, WADE",Fenerbahce Beko Istanbul,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,4,10,0,3,6,7,4,13,30.8,1,3,1,1,3,84,58
+E2025,75,Valencia Basket vs Dubai Basketball,P012796,"KABENGELE, MFIONDU",Dubai Basketball,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,4,7,0,0,1,1,4,7,57.1,8,2,0,0,4,80,78
+E2025,76,Zalgiris Kaunas vs LDLC ASVEL Villeurbanne,P002100,"DE COLO, NANDO",LDLC ASVEL Villeurbanne,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,0,1,0,3,2,2,0,4,0.0,1,2,2,3,0,96,59
+E2025,77,AS Monaco vs Panathinaikos AKTOR Athens,P004132,"THEIS, DANIEL",AS Monaco,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,2,5,0,1,2,2,2,6,33.3,6,0,1,0,0,92,84
+E2025,78,Baskonia Vitoria-Gasteiz vs Anadolu Efes Istanbul,P007200,"LARKIN, SHANE",Anadolu Efes Istanbul,Q1,2,08:31,3FGA,Missed Three Pointer (1/2 -  3 pt),False,23,3,7,4,10,5,5,7,17,41.2,1,4,3,0,0,86,75
+E2025,79,Olympiacos Piraeus vs Hapoel IBI Tel Aviv,P013284,"WAINRIGHT, ISH",Hapoel IBI Tel Aviv,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,1,1,5,0,0,1,6,16.7,1,0,0,0,2,62,58
+E2025,80,Partizan Mozzart Bet Belgrade vs FC Barcelona,P004761,"MARINKOVIC, VANJA",Partizan Mozzart Bet Belgrade,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,3,4,1,4,0,1,4,8,50.0,2,1,0,1,3,76,78
+E2025,81,Paris Basketball vs FC Bayern Munich,P007993,"M'BAYE, AMATH",Paris Basketball,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,3,5,1,4,0,0,4,9,44.4,2,0,2,0,2,82,86
+E2025,82,Baskonia Vitoria-Gasteiz vs Virtus Bologna,P014152,"SIMMONS, KOBI",Baskonia Vitoria-Gasteiz,Q1,1,09:51,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,1,2,1,4,2,2,2,6,33.3,0,8,1,0,2,87,76
+E2025,83,Crvena Zvezda Meridianbet Belgrade vs Panathinaikos AKTOR Athens,P014094,"MILJENOVIC, STEFAN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:30,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,0,2,0,0,6,7,0,2,0.0,1,0,0,1,0,86,68
+E2025,84,Dubai Basketball vs Hapoel IBI Tel Aviv,P012788,"OTURU, DAN",Hapoel IBI Tel Aviv,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,4,7,0,0,4,4,4,7,57.1,2,1,2,0,4,97,109
+E2025,85,Fenerbahce Beko Istanbul vs LDLC ASVEL Villeurbanne,P014124,"HORTON TUCKER, TALEN",Fenerbahce Beko Istanbul,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,1,8,1,3,1,2,2,11,18.2,3,1,0,0,2,81,67
+E2025,86,Maccabi Rapyd Tel Aviv vs AS Monaco,P011219,"SORKIN, ROMAN",Maccabi Rapyd Tel Aviv,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,15,6,9,0,1,3,3,6,10,60.0,1,2,1,0,2,107,112
+E2025,87,Anadolu Efes Istanbul vs EA7 Emporio Armani Milan,P004004,"GUDURIC, MARKO",EA7 Emporio Armani Milan,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,13,2,4,2,4,3,4,4,8,50.0,8,1,5,0,1,93,97
+E2025,88,FC Barcelona vs Real Madrid,P005791,"TAVARES, WALTER",Real Madrid,Q1,1,09:00,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,6,0,0,1,2,3,6,50.0,10,0,1,0,1,92,101
+E2025,89,Olympiacos Piraeus vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,2,6,1,3,0,0,3,9,33.3,1,1,0,1,2,80,71
+E2025,90,Zalgiris Kaunas vs Valencia Basket,P008192,"TUBELIS, AZUOLAS",Zalgiris Kaunas,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,1,3,1,1,6,8,2,4,50.0,8,0,0,1,2,86,77
+E2025,91,Fenerbahce Beko Istanbul vs Maccabi Rapyd Tel Aviv,P014124,"HORTON TUCKER, TALEN",Fenerbahce Beko Istanbul,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,2,6,2,3,3,3,4,9,44.4,4,3,2,1,2,84,75
+E2025,92,Hapoel IBI Tel Aviv vs Baskonia Vitoria-Gasteiz,P008072,"DIOP, KHALIFA",Baskonia Vitoria-Gasteiz,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,2,0,0,0,0,1,2,50.0,1,0,2,0,0,114,89
+E2025,93,Paris Basketball vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,2,08:57,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,3,0,1,0,3,1,4,25.0,2,0,2,0,1,95,101
+E2025,94,Valencia Basket vs Real Madrid,P010042,"MONTERO, JEAN",Valencia Basket,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,0,3,2,6,3,4,2,9,22.2,4,3,1,3,2,89,76
+E2025,95,Virtus Bologna vs Anadolu Efes Istanbul,P009549,"CORDINIER, ISAIA",Anadolu Efes Istanbul,Q1,1,09:23,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,6,0,4,0,0,2,10,20.0,4,2,2,2,2,99,89
+E2025,96,Dubai Basketball vs Crvena Zvezda Meridianbet Belgrade,P008325,"KAMENJAS, KENAN",Dubai Basketball,Q1,1,09:38,2FGA,Missed Two Pointer (0/1 -  0 pt),True,20,9,12,0,0,2,4,9,12,75.0,9,1,1,2,1,102,86
+E2025,97,Partizan Mozzart Bet Belgrade vs AS Monaco,P011231,"BLOSSOMGAME, JARON",AS Monaco,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),True,1,0,0,0,1,1,2,0,1,0.0,1,0,1,0,1,78,76
+E2025,98,EA7 Emporio Armani Milan vs LDLC ASVEL Villeurbanne,P011199,"NEBO, JOSH",EA7 Emporio Armani Milan,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,2,5,0,0,1,2,2,5,40.0,4,0,2,0,1,80,72
+E2025,99,FC Bayern Munich vs FC Barcelona,P001133,"SHENGELIA, TORNIKE",FC Barcelona,Q1,1,09:08,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,4,7,0,0,2,2,4,7,57.1,5,4,2,1,2,74,75
+E2025,100,Olympiacos Piraeus vs Zalgiris Kaunas,P008192,"TUBELIS, AZUOLAS",Zalgiris Kaunas,Q1,1,09:13,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,3,6,0,2,0,0,3,8,37.5,5,1,1,1,2,95,78
+E2025,101,Fenerbahce Beko Istanbul vs Hapoel IBI Tel Aviv,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,1,7,4,5,5,5,5,12,41.7,5,3,2,2,1,74,68
+E2025,102,Maccabi Rapyd Tel Aviv vs Baskonia Vitoria-Gasteiz,P013403,"WALKER IV, LONNIE",Maccabi Rapyd Tel Aviv,Q1,1,09:55,FTA,Missed Free Throw (1/2 -  1 pt),False,10,2,5,1,2,3,6,3,7,42.9,0,1,1,1,0,89,83
+E2025,103,Paris Basketball vs Valencia Basket,P007993,"M'BAYE, AMATH",Paris Basketball,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,0,1,1,4,4,4,1,5,20.0,1,1,1,1,4,90,86
+E2025,104,Real Madrid vs Panathinaikos AKTOR Athens,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,2,08:46,2FGA,Missed Two Pointer (0/1 -  0 pt),False,8,1,3,2,2,0,0,3,5,60.0,0,1,2,0,2,77,87
+E2025,105,Crvena Zvezda Meridianbet Belgrade vs AS Monaco,PLCZ,"MOTIEJUNAS, DONATAS",Crvena Zvezda Meridianbet Belgrade,Q1,2,08:50,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,0,2,0,0,2,6,0,2,0.0,1,1,0,0,3,91,79
+E2025,106,Anadolu Efes Istanbul vs FC Bayern Munich,P009513,"HOLLATZ, JUSTUS",FC Bayern Munich,Q1,2,08:08,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,1,0,1,0,0,0,2,0.0,1,1,1,1,3,74,72
+E2025,107,Dubai Basketball vs Zalgiris Kaunas,P012606,"WRIGHT IV, MCKINLEY",Dubai Basketball,Q1,1,09:13,3FGA,Missed Three Pointer (0/1 -  0 pt),False,9,2,6,1,2,2,2,3,8,37.5,2,9,2,2,4,95,89
+E2025,108,EA7 Emporio Armani Milan vs Olympiacos Piraeus,P003941,"MILUTINOV, NIKOLA",Olympiacos Piraeus,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,4,6,0,0,1,2,4,6,66.7,5,2,0,1,0,88,87
+E2025,109,FC Barcelona vs Virtus Bologna,P011051,"SMAILAGIC, ALEN",Virtus Bologna,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,5,1,3,1,3,0,0,2,6,33.3,3,2,2,1,2,88,81
+E2025,110,LDLC ASVEL Villeurbanne vs Partizan Mozzart Bet Belgrade,P013371,"HARRISON, SHAQUILLE",LDLC ASVEL Villeurbanne,Q1,1,09:59,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,5,8,0,0,2,6,5,8,62.5,2,3,2,3,1,88,87
+E2025,111,LDLC ASVEL Villeurbanne vs AS Monaco,P013371,"HARRISON, SHAQUILLE",LDLC ASVEL Villeurbanne,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,8,0,1,3,4,1,9,11.1,1,1,4,1,1,52,84
+E2025,112,Anadolu Efes Istanbul vs FC Barcelona,P007109,"SMITS, ROLANDS",Anadolu Efes Istanbul,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),True,7,2,3,0,1,3,4,2,4,50.0,5,1,3,0,4,74,73
+E2025,113,EA7 Emporio Armani Milan vs Hapoel IBI Tel Aviv,P008987,"LEDAY, ZACH",EA7 Emporio Armani Milan,Q1,2,08:42,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,1,4,0,2,9,10,1,6,16.7,2,4,2,1,0,83,105
+E2025,114,Panathinaikos AKTOR Athens vs Dubai Basketball,P012796,"KABENGELE, MFIONDU",Dubai Basketball,Q1,2,08:53,2FGA,Missed Two Pointer (0/1 -  0 pt),False,18,8,11,0,3,2,2,8,14,57.1,5,2,2,1,1,103,82
+E2025,115,Real Madrid vs Zalgiris Kaunas,P007975,"FRANCISCO, SYLVAIN",Zalgiris Kaunas,Q1,1,09:54,2FGA,Missed Two Pointer (0/1 -  0 pt),True,33,3,6,7,9,6,6,10,15,66.7,3,11,5,2,5,100,99
+E2025,116,Kosner Baskonia Vitoria-Gasteiz vs FC Bayern Munich,P014027,"DIAKITE, MAMADI",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,5,2,4,0,1,1,1,2,5,40.0,3,2,2,0,2,95,73
+E2025,117,Olympiacos Piraeus vs Paris Basketball,P009664,"WILLIS, DEREK",Paris Basketball,Q1,1,09:26,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,1,1,2,0,0,1,3,33.3,6,1,0,1,3,98,86
+E2025,118,Partizan Mozzart Bet Belgrade vs Fenerbahce Beko Istanbul,P007182,"BIRCH, KHEM",Fenerbahce Beko Istanbul,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,3,4,0,0,0,1,3,4,75.0,2,0,1,1,5,87,99
+E2025,119,Valencia Basket vs Crvena Zvezda Meridianbet Belgrade,P011217,"TAYLOR, KAMERON",Valencia Basket,Q1,1,09:08,3FGA,Missed Three Pointer (0/1 -  0 pt),False,12,2,2,1,5,5,6,3,7,42.9,6,1,2,1,1,76,73
+E2025,120,Virtus Bologna vs Maccabi Rapyd Tel Aviv,P007947,"VILDOZA, LUCA",Virtus Bologna,Q1,1,09:03,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,0,1,2,6,0,0,2,7,28.6,3,5,2,1,1,99,89
+E2025,121,Dubai Basketball vs Paris Basketball,P014157,"ELLIS, BOOGIE",Dubai Basketball,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,0,3,1,1,0,0,1,4,25.0,0,1,1,0,2,90,89
+E2025,122,Hapoel IBI Tel Aviv vs Real Madrid,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,1,09:08,3FGA,Missed Three Pointer (0/1 -  0 pt),False,13,2,6,2,5,3,3,4,11,36.4,6,2,3,1,2,74,75
+E2025,123,Panathinaikos AKTOR Athens vs Partizan Mozzart Bet Belgrade,P014007,"MILTON, SHAKE",Partizan Mozzart Bet Belgrade,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,3,7,0,2,3,4,3,9,33.3,2,5,1,0,4,91,69
+E2025,124,Valencia Basket vs FC Bayern Munich,P007201,"VOIGTMANN, JOHANNES",FC Bayern Munich,Q1,1,09:36,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,2,0,2,0,0,0,4,0.0,2,1,1,0,0,90,64
+E2025,125,Zalgiris Kaunas vs Kosner Baskonia Vitoria-Gasteiz,P014152,"SIMMONS, KOBI",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,5,8,0,3,2,2,5,11,45.5,2,3,0,0,1,82,67
+E2025,126,Fenerbahce Beko Istanbul vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,3,8,0,8,5,6,3,16,18.8,3,1,4,0,2,66,64
+E2025,127,AS Monaco vs Anadolu Efes Istanbul,P009549,"CORDINIER, ISAIA",Anadolu Efes Istanbul,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,16,2,4,4,4,0,0,6,8,75.0,2,3,1,1,2,102,66
+E2025,128,Crvena Zvezda Meridianbet Belgrade vs Olympiacos Piraeus,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:20,3FGA,Missed Three Pointer (0/1 -  0 pt),False,16,2,4,4,8,0,0,6,12,50.0,4,2,3,1,3,91,80
+E2025,129,FC Barcelona vs LDLC ASVEL Villeurbanne,P000925,"VESELY, JAN",FC Barcelona,Q1,1,09:16,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,5,0,0,0,0,3,5,60.0,2,2,2,1,2,88,78
+E2025,130,Maccabi Rapyd Tel Aviv vs EA7 Emporio Armani Milan,P013699,"CLARK III, JIMMY",Maccabi Rapyd Tel Aviv,Q1,1,09:26,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,2,6,1,2,3,4,3,8,37.5,3,5,1,0,1,88,102
+E2025,131,AS Monaco vs Paris Basketball,P012640,"HIFI, NADIR",Paris Basketball,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,4,9,2,5,3,7,6,14,42.9,1,3,3,1,1,125,104
+E2025,132,Partizan Mozzart Bet Belgrade vs FC Bayern Munich,P007201,"VOIGTMANN, JOHANNES",FC Bayern Munich,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,2,5,2,4,0,0,4,9,44.4,18,7,5,2,1,92,85
+E2025,133,Hapoel IBI Tel Aviv vs LDLC ASVEL Villeurbanne,P012731,"NDIAYE, MBAYE",LDLC ASVEL Villeurbanne,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,7,2,3,1,4,0,0,3,7,42.9,2,1,3,0,1,87,80
+E2025,134,Olympiacos Piraeus vs Fenerbahce Beko Istanbul,P014016,"BOSTON JR., BRANDON",Fenerbahce Beko Istanbul,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,3,6,0,2,0,0,3,8,37.5,1,0,1,0,3,104,87
+E2025,135,Zalgiris Kaunas vs Maccabi Rapyd Tel Aviv,P008192,"TUBELIS, AZUOLAS",Zalgiris Kaunas,Q1,1,09:07,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,2,11,0,1,2,2,2,12,16.7,8,0,0,2,3,65,83
+E2025,136,Anadolu Efes Istanbul vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:03,2FGA,Missed Two Pointer (0/1 -  3 pt),False,22,5,10,4,6,0,0,9,16,56.2,4,4,2,2,3,75,81
+E2025,137,Crvena Zvezda Meridianbet Belgrade vs FC Barcelona,P012201,"MONEKE, CHIMA",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,5,10,0,0,5,6,5,10,50.0,9,1,3,0,3,79,89
+E2025,138,Kosner Baskonia Vitoria-Gasteiz vs EA7 Emporio Armani Milan,P011948,"HOWARD, MARKUS",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,2,2,2,9,0,0,4,11,36.4,1,2,1,0,0,88,78
+E2025,139,Panathinaikos AKTOR Athens vs Valencia Basket,P011284,"FARIED, KENNETH",Panathinaikos AKTOR Athens,Q1,1,09:08,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,4,0,0,0,0,1,4,25.0,3,0,3,0,2,79,89
+E2025,140,Virtus Bologna vs Dubai Basketball,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,23,6,14,3,7,2,2,9,21,42.9,5,3,2,2,2,79,78
+E2025,141,Maccabi Rapyd Tel Aviv vs LDLC ASVEL Villeurbanne,P013403,"WALKER IV, LONNIE",Maccabi Rapyd Tel Aviv,Q1,1,09:22,2FGA,Missed Two Pointer (0/1 -  0 pt),False,29,10,11,2,8,3,3,12,19,63.2,9,1,1,0,0,92,84
+E2025,142,Dubai Basketball vs FC Bayern Munich,P011194,"PETRUSEV, FILIP",Dubai Basketball,Q1,2,08:20,3FGA,Missed Three Pointer (0/1 -  2 pt),False,12,4,8,0,2,4,4,4,10,40.0,3,3,1,1,3,89,88
+E2025,143,EA7 Emporio Armani Milan vs Panathinaikos AKTOR Athens,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,3,8,3,7,2,2,6,15,40.0,3,5,3,1,2,96,89
+E2025,144,Paris Basketball vs Zalgiris Kaunas,P007993,"M'BAYE, AMATH",Paris Basketball,Q1,1,09:26,2FGA,Missed Two Pointer (0/1 -  0 pt),False,23,6,8,3,5,2,2,9,13,69.2,2,1,0,1,3,105,108
+E2025,145,Real Madrid vs Kosner Baskonia Vitoria-Gasteiz,P014152,"SIMMONS, KOBI",Kosner Baskonia Vitoria-Gasteiz,Q1,2,08:40,2FGA,Missed Two Pointer (1/2 -  2 pt),False,11,4,5,1,4,0,0,5,9,55.6,0,3,0,1,3,94,87
+E2025,146,Valencia Basket vs Anadolu Efes Istanbul,P010393,"PRADILLA, JAIME",Valencia Basket,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,5,6,1,2,1,1,6,8,75.0,4,3,0,2,2,94,82
+E2025,147,AS Monaco vs Fenerbahce Beko Istanbul,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,13,4,4,1,7,2,3,5,11,45.5,3,3,3,2,1,86,92
+E2025,148,FC Barcelona vs Olympiacos Piraeus,P000925,"VESELY, JAN",FC Barcelona,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,5,9,0,1,2,2,5,10,50.0,3,4,0,0,3,98,85
+E2025,149,Partizan Mozzart Bet Belgrade vs Crvena Zvezda Meridianbet Belgrade,P014007,"MILTON, SHAKE",Partizan Mozzart Bet Belgrade,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,3,6,0,2,0,0,3,8,37.5,3,3,2,0,1,79,76
+E2025,150,Virtus Bologna vs Hapoel IBI Tel Aviv,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,6,0,5,0,0,1,11,9.1,3,1,2,1,0,74,79
+E2025,151,Dubai Basketball vs Maccabi Rapyd Tel Aviv,P012796,"KABENGELE, MFIONDU",Dubai Basketball,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,5,9,0,1,2,2,5,10,50.0,1,0,0,1,2,95,97
+E2025,152,EA7 Emporio Armani Milan vs Real Madrid,P007056,"BOOKER, DEVIN",EA7 Emporio Armani Milan,Q1,1,09:10,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,2,0,2,0,0,1,4,25.0,2,1,0,0,3,89,82
+E2025,153,Fenerbahce Beko Istanbul vs Panathinaikos AKTOR Athens,P012608,"SHORTS, TJ",Panathinaikos AKTOR Athens,Q1,1,09:00,2FGA,Missed Two Pointer (1/2 -  2 pt),False,5,1,5,0,1,3,4,1,6,16.7,0,0,0,2,0,77,81
+E2025,154,Hapoel IBI Tel Aviv vs Crvena Zvezda Meridianbet Belgrade,P004866,"KALINIC, NIKOLA",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,4,1,4,0,3,2,2,1,7,14.3,2,0,2,0,3,84,78
+E2025,155,Olympiacos Piraeus vs Valencia Basket,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:22,2FGA,Missed Two Pointer (0/1 -  0 pt),False,24,8,13,2,6,2,4,10,19,52.6,8,3,2,1,0,92,99
+E2025,156,Paris Basketball vs FC Barcelona,P003196,"HERNANGOMEZ, WILLY",FC Barcelona,Q1,1,09:26,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,4,5,0,0,5,6,4,5,80.0,6,2,1,2,3,69,85
+E2025,157,Kosner Baskonia Vitoria-Gasteiz vs AS Monaco,P013367,"FORREST, TRENT",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:04,FTA,Missed Free Throw (0/1 -  0 pt),False,17,3,4,2,3,5,8,5,7,71.4,7,5,3,1,1,85,73
+E2025,158,LDLC ASVEL Villeurbanne vs FC Bayern Munich,P011244,"DA SILVA, OSCAR",FC Bayern Munich,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,5,0,1,1,1,3,6,50.0,4,2,1,1,1,76,74
+E2025,159,Partizan Mozzart Bet Belgrade vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,20,4,13,3,8,3,4,7,21,33.3,3,3,0,1,1,68,86
+E2025,160,Zalgiris Kaunas vs Anadolu Efes Istanbul,P014025,"SWIDER, COLE",Anadolu Efes Istanbul,Q1,2,08:38,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,1,2,4,6,4,4,5,8,62.5,1,1,0,1,3,64,87
+E2025,161,EA7 Emporio Armani Milan vs Fenerbahce Beko Istanbul,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,1,09:18,3FGA,Missed Three Pointer (0/1 -  0 pt),False,4,2,5,0,2,0,0,2,7,28.6,0,2,3,1,3,72,87
+E2025,162,Maccabi Rapyd Tel Aviv vs Valencia Basket,P010393,"PRADILLA, JAIME",Valencia Basket,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,5,1,1,1,4,0,1,2,5,40.0,2,2,1,1,1,85,82
+E2025,163,Panathinaikos AKTOR Athens vs Hapoel IBI Tel Aviv,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,3,4,1,4,0,0,4,8,50.0,1,6,0,2,2,93,82
+E2025,164,Real Madrid vs Paris Basketball,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,0,3,2,7,0,0,2,10,20.0,3,4,1,0,0,95,90
+E2025,165,Anadolu Efes Istanbul vs Dubai Basketball,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,2,8,0,2,2,2,2,10,20.0,2,1,1,1,0,76,80
+E2025,166,AS Monaco vs FC Bayern Munich,P013386,"MCCORMACK, DAVID",FC Bayern Munich,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,4,6,0,0,1,2,4,6,66.7,3,0,2,0,2,103,77
+E2025,167,Crvena Zvezda Meridianbet Belgrade vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,29,5,8,4,10,7,8,9,18,50.0,3,2,5,0,1,90,89
+E2025,168,FC Barcelona vs Kosner Baskonia Vitoria-Gasteiz,P004888,"CLYBURN, WILL",FC Barcelona,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,4,7,0,2,4,4,4,9,44.4,2,1,1,0,1,134,124
+E2025,169,Olympiacos Piraeus vs LDLC ASVEL Villeurbanne,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:35,2FGA,Missed Two Pointer (0/1 -  0 pt),True,17,4,6,1,2,6,6,5,8,62.5,5,4,0,1,0,107,84
+E2025,170,Zalgiris Kaunas vs Partizan Mozzart Bet Belgrade,P011983,"BRAZDEIKIS, IGNAS",Zalgiris Kaunas,Q1,1,09:13,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,6,8,1,3,0,0,7,11,63.6,3,2,0,0,2,109,68
+E2025,171,FC Bayern Munich vs Hapoel IBI Tel Aviv,P013284,"WAINRIGHT, ISH",Hapoel IBI Tel Aviv,Q1,1,09:46,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,0,0,0,4,2,2,0,4,0.0,1,0,0,3,4,72,82
+E2025,172,Fenerbahce Beko Istanbul vs FC Barcelona,P013269,"CALE, MYLES",FC Barcelona,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,4,0,2,0,0,2,6,33.3,4,3,0,0,3,72,71
+E2025,173,LDLC ASVEL Villeurbanne vs Anadolu Efes Istanbul,P010391,"WEILER-BABB, NICK",Anadolu Efes Istanbul,Q1,2,08:54,2FGA,Missed Two Pointer (0/1 -  0 pt),False,20,2,4,4,5,4,4,6,9,66.7,6,8,2,1,5,103,99
+E2025,174,Paris Basketball vs Crvena Zvezda Meridianbet Belgrade,P014009,"STEVENS, LAMAR",Paris Basketball,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,14,2,4,3,5,1,1,5,9,55.6,2,1,0,1,2,102,92
+E2025,175,Valencia Basket vs Kosner Baskonia Vitoria-Gasteiz,P011948,"HOWARD, MARKUS",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:27,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,1,3,2,7,1,1,3,10,30.0,4,3,3,1,2,91,81
+E2025,176,Zalgiris Kaunas vs Panathinaikos AKTOR Athens,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,1,4,2,4,0,0,3,8,37.5,1,5,1,1,2,85,92
+E2025,177,Dubai Basketball vs EA7 Emporio Armani Milan,P007056,"BOOKER, DEVIN",EA7 Emporio Armani Milan,Q1,3,07:26,2FGA,Missed Two Pointer (1/2 -  2 pt),False,10,3,6,0,0,4,4,3,6,50.0,4,1,0,0,3,99,92
+E2025,178,AS Monaco vs Real Madrid,P005928,"CAMPAZZO, FACUNDO",Real Madrid,Q1,1,09:26,2FGA,Missed Two Pointer (0/1 -  0 pt),False,28,3,5,6,7,4,4,9,12,75.0,5,10,4,3,3,100,95
+E2025,179,Partizan Mozzart Bet Belgrade vs Maccabi Rapyd Tel Aviv,P006835,"HOARD, JAYLEN",Maccabi Rapyd Tel Aviv,Q1,1,09:28,3FGA,Missed Three Pointer (0/1 -  0 pt),False,9,3,3,0,2,3,3,3,5,60.0,4,2,1,0,0,87,112
+E2025,180,Virtus Bologna vs Olympiacos Piraeus,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,14,3,11,2,5,2,3,5,16,31.2,1,2,2,2,1,94,97
+E2025,181,FC Barcelona vs AS Monaco,P011212,"OKOBO, ELIE",AS Monaco,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,3,8,2,3,0,0,5,11,45.5,4,5,1,1,4,74,90
+E2025,182,Hapoel IBI Tel Aviv vs Zalgiris Kaunas,P012878,"WRIGHT, MOSES",Zalgiris Kaunas,Q1,1,09:13,3FGA,Missed Three Pointer (0/1 -  0 pt),False,15,5,8,1,2,2,2,6,10,60.0,3,0,1,1,3,80,93
+E2025,183,LDLC ASVEL Villeurbanne vs Paris Basketball,P013371,"HARRISON, SHAQUILLE",LDLC ASVEL Villeurbanne,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,2,5,2,5,0,0,4,10,40.0,5,1,0,0,2,94,89
+E2025,184,Valencia Basket vs Partizan Mozzart Bet Belgrade,P007527,"BADIO, BRANCOU",Valencia Basket,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,0,3,4,8,2,2,4,11,36.4,1,3,3,1,2,86,73
+E2025,185,Anadolu Efes Istanbul vs Crvena Zvezda Meridianbet Belgrade,P012742,"DOZIER, PJ",Anadolu Efes Istanbul,Q1,1,09:36,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,1,6,0,3,1,1,1,9,11.1,0,1,2,1,4,65,87
+E2025,186,Kosner Baskonia Vitoria-Gasteiz vs Fenerbahce Beko Istanbul,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,2,08:56,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,1,6,0,1,2,2,1,7,14.3,3,3,0,1,2,93,108
+E2025,187,FC Bayern Munich vs Maccabi Rapyd Tel Aviv,P001288,"LUCIC, VLADIMIR",FC Bayern Munich,Q1,2,08:43,3FGA,Missed Three Pointer (0/1 -  0 pt),False,17,6,7,0,3,5,5,6,10,60.0,7,2,1,0,3,95,71
+E2025,188,Panathinaikos AKTOR Athens vs Olympiacos Piraeus,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),False,32,8,8,3,9,7,7,11,17,64.7,5,6,2,2,2,82,87
+E2025,189,Real Madrid vs Dubai Basketball,P003527,"ABASS, AWUDU",Dubai Basketball,Q1,1,09:17,3FGA,Missed Three Pointer (0/1 -  0 pt),False,0,0,2,0,1,0,0,0,3,0.0,3,0,1,0,0,107,93
+E2025,190,Virtus Bologna vs EA7 Emporio Armani Milan,P012593,"ELLIS, QUINN",EA7 Emporio Armani Milan,Q1,1,09:01,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,3,6,0,3,1,1,3,9,33.3,5,4,1,2,3,97,85
+E2025,191,AS Monaco vs Partizan Mozzart Bet Belgrade,P004132,"THEIS, DANIEL",AS Monaco,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,4,6,1,2,0,0,5,8,62.5,5,0,0,0,1,101,84
+E2025,192,Crvena Zvezda Meridianbet Belgrade vs Valencia Basket,P007527,"BADIO, BRANCOU",Valencia Basket,Q1,1,09:50,FTA,Missed Free Throw (0/1 -  0 pt),True,15,2,5,2,5,5,6,4,10,40.0,1,4,2,0,2,89,106
+E2025,193,FC Barcelona vs Maccabi Rapyd Tel Aviv,P013269,"CALE, MYLES",FC Barcelona,Q1,1,09:32,2FGA,Missed Two Pointer (0/1 -  0 pt),True,6,0,1,2,3,0,0,2,4,50.0,1,1,2,0,1,93,83
+E2025,194,Fenerbahce Beko Istanbul vs Olympiacos Piraeus,P011205,"HALL, DEVON",Fenerbahce Beko Istanbul,Q1,2,08:41,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,4,6,0,1,2,2,4,7,57.1,3,1,1,0,4,88,80
+E2025,195,Hapoel IBI Tel Aviv vs Dubai Basketball,P012606,"WRIGHT IV, MCKINLEY",Dubai Basketball,Q1,1,09:18,FTA,Missed Free Throw (1/2 -  1 pt),False,3,1,4,0,1,1,2,1,5,20.0,1,4,3,0,3,85,60
+E2025,196,LDLC ASVEL Villeurbanne vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:17,3FGA,Missed Three Pointer (0/1 -  0 pt),False,6,2,6,0,5,2,2,2,11,18.2,3,2,2,0,1,69,80
+E2025,197,Panathinaikos AKTOR Athens vs EA7 Emporio Armani Milan,P007056,"BOOKER, DEVIN",EA7 Emporio Armani Milan,Q1,2,08:46,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,3,0,2,0,0,1,5,20.0,4,1,1,1,2,74,87
+E2025,198,Virtus Bologna vs Zalgiris Kaunas,P002329,"ULANOVAS, EDGARAS",Zalgiris Kaunas,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,0,5,0,2,5,6,0,7,0.0,2,1,0,0,3,83,79
+E2025,199,Anadolu Efes Istanbul vs Paris Basketball,P010431,"MORGAN, JEREMY",Paris Basketball,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,1,0,2,0,0,0,3,0.0,5,2,1,0,1,79,84
+E2025,200,FC Bayern Munich vs Kosner Baskonia Vitoria-Gasteiz,P004863,"JOVIC, STEFAN",FC Bayern Munich,Q1,2,08:48,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,1,3,0,0,2,2,1,3,33.3,2,5,7,0,1,96,89
+E2025,201,Dubai Basketball vs Fenerbahce Beko Istanbul,P006961,"BIBEROVIC, TARIK",Fenerbahce Beko Istanbul,Q1,2,08:59,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,1,2,2,7,0,0,3,9,33.3,3,0,0,0,5,92,81
+E2025,202,Real Madrid vs Maccabi Rapyd Tel Aviv,P014006,"OKEKE, CHUMA",Real Madrid,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,0,1,1,4,0,0,1,5,20.0,1,2,0,2,2,98,86
+E2025,203,Valencia Basket vs AS Monaco,P014115,"MOORE, OMARI",Valencia Basket,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,1,4,0,3,1,2,1,7,14.3,3,3,1,1,0,92,101
+E2025,204,Panathinaikos AKTOR Athens vs Virtus Bologna,P001926,"SLOUKAS, KOSTAS",Panathinaikos AKTOR Athens,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,3,1,4,0,0,2,7,28.6,3,3,1,0,2,84,71
+E2025,205,Hapoel IBI Tel Aviv vs Paris Basketball,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,5,7,1,2,5,6,6,9,66.7,0,5,3,1,2,93,82
+E2025,206,Kosner Baskonia Vitoria-Gasteiz vs LDLC ASVEL Villeurbanne,P014088,"SELJAAS, ZACHARY",LDLC ASVEL Villeurbanne,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,1,2,0,3,0,0,1,5,20.0,2,0,0,0,1,78,73
+E2025,207,EA7 Emporio Armani Milan vs Anadolu Efes Istanbul,P013384,"BROOKS, ARMONI",EA7 Emporio Armani Milan,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,31,3,4,7,12,4,4,10,16,62.5,8,0,2,0,2,87,74
+E2025,208,FC Barcelona vs Partizan Mozzart Bet Belgrade,P012720,"BROWN, STERLING",Partizan Mozzart Bet Belgrade,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,3,1,4,0,0,2,7,28.6,1,0,1,0,3,88,70
+E2025,209,Olympiacos Piraeus vs FC Bayern Munich,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,2,4,2,8,0,0,4,12,33.3,4,6,2,1,3,95,80
+E2025,210,Zalgiris Kaunas vs Crvena Zvezda Meridianbet Belgrade,P004866,"KALINIC, NIKOLA",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:48,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,2,4,1,5,0,0,3,9,33.3,4,2,2,0,1,99,67
+E2025,211,Anadolu Efes Istanbul vs Kosner Baskonia Vitoria-Gasteiz,P013389,"LEE, SABEN",Anadolu Efes Istanbul,Q1,1,09:19,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,5,0,1,0,2,1,6,16.7,1,2,2,0,2,75,89
+E2025,212,FC Bayern Munich vs Panathinaikos AKTOR Athens,P001288,"LUCIC, VLADIMIR",FC Bayern Munich,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,8,3,3,0,1,2,2,3,4,75.0,2,1,2,2,3,85,78
+E2025,213,Maccabi Rapyd Tel Aviv vs Zalgiris Kaunas,P013699,"CLARK III, JIMMY",Maccabi Rapyd Tel Aviv,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,1,5,4,6,3,4,5,11,45.5,1,5,1,1,2,100,97
+E2025,214,Paris Basketball vs AS Monaco,P014009,"STEVENS, LAMAR",Paris Basketball,Q1,1,09:47,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,4,7,0,1,3,4,4,8,50.0,4,1,2,0,4,87,95
+E2025,215,Dubai Basketball vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,2,08:30,3FGA,Missed Three Pointer (1/2 -  3 pt),False,21,6,11,2,9,3,5,8,20,40.0,1,4,2,0,1,72,80
+E2025,216,EA7 Emporio Armani Milan vs Crvena Zvezda Meridianbet Belgrade,P009048,"MILLER-MCINTYRE, CODI",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:20,2FGA,Missed Two Pointer (1/2 -  2 pt),False,15,6,11,0,2,3,4,6,13,46.2,8,7,2,2,3,96,104
+E2025,217,Fenerbahce Beko Istanbul vs Valencia Basket,P002849,"MELLI, NICOLO",Fenerbahce Beko Istanbul,Q1,2,08:43,3FGA,Missed Three Pointer (0/1 -  0 pt),False,12,3,4,2,6,0,0,5,10,50.0,3,2,2,0,1,82,79
+E2025,218,LDLC ASVEL Villeurbanne vs Hapoel IBI Tel Aviv,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,1,09:49,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,8,9,0,2,1,1,8,11,72.7,3,6,3,0,1,73,81
+E2025,219,Partizan Mozzart Bet Belgrade vs Olympiacos Piraeus,P006760,"BONGA, ISAAC",Partizan Mozzart Bet Belgrade,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,1,2,1,3,2,2,2,5,40.0,4,2,0,1,4,66,104
+E2025,220,Real Madrid vs FC Barcelona,P003733,"ABALDE, ALBERTO",Real Madrid,Q1,1,09:52,2FGA,Missed Two Pointer (0/1 -  0 pt),True,2,1,2,0,0,0,0,1,2,50.0,0,1,0,0,1,80,61
+E2025,221,AS Monaco vs Crvena Zvezda Meridianbet Belgrade,P004866,"KALINIC, NIKOLA",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,5,1,3,1,2,0,2,2,5,40.0,2,3,1,0,3,96,100
+E2025,222,FC Barcelona vs Dubai Basketball,P009862,"PUNTER, KEVIN",FC Barcelona,Q1,2,08:48,2FGA,Missed Two Pointer (0/1 -  0 pt),False,20,7,11,1,3,3,4,8,14,57.1,3,3,1,4,1,91,89
+E2025,223,Hapoel IBI Tel Aviv vs Anadolu Efes Istanbul,P012742,"DOZIER, PJ",Anadolu Efes Istanbul,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,3,9,3,5,0,0,6,14,42.9,4,3,2,1,3,71,66
+E2025,224,Olympiacos Piraeus vs Maccabi Rapyd Tel Aviv,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:05,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,5,1,4,0,0,3,9,33.3,2,5,3,0,2,100,93
+E2025,225,Panathinaikos AKTOR Athens vs Kosner Baskonia Vitoria-Gasteiz,P005713,"KURUCS, RODIONS",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:44,3FGA,Missed Three Pointer (0/1 -  0 pt),True,12,6,8,0,2,0,0,6,10,60.0,4,1,0,0,3,93,74
+E2025,226,FC Bayern Munich vs Partizan Mozzart Bet Belgrade,P013667,"FERNANDO, BRUNO",Partizan Mozzart Bet Belgrade,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,2,4,0,1,4,4,2,5,40.0,1,1,0,0,2,63,67
+E2025,227,Real Madrid vs EA7 Emporio Armani Milan,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,4,6,0,0,5,6,4,6,66.7,3,2,1,1,3,106,77
+E2025,228,Valencia Basket vs Paris Basketball,P014178,"RHODEN, JARED",Paris Basketball,Q1,1,09:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,9,3,4,1,2,0,0,4,6,66.7,3,0,2,0,1,98,84
+E2025,229,LDLC ASVEL Villeurbanne vs Zalgiris Kaunas,PKLT,"HEURTEL, THOMAS",LDLC ASVEL Villeurbanne,Q1,2,08:57,2FGA,Missed Two Pointer (0/1 -  0 pt),False,21,5,10,2,2,5,6,7,12,58.3,2,6,3,1,1,77,96
+E2025,230,Virtus Bologna vs Fenerbahce Beko Istanbul,P002969,"MAHMUTOGLU, MELIH",Fenerbahce Beko Istanbul,Q1,1,09:01,2FGA,Missed Two Pointer (0/1 -  0 pt),False,3,0,2,1,4,0,0,1,6,16.7,2,0,0,0,0,80,85
+E2025,231,Anadolu Efes Istanbul vs Olympiacos Piraeus,P009549,"CORDINIER, ISAIA",Anadolu Efes Istanbul,Q1,1,09:26,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,0,3,1,4,5,6,1,7,14.3,3,1,2,0,1,68,74
+E2025,232,FC Bayern Munich vs Valencia Basket,P007527,"BADIO, BRANCOU",Valencia Basket,Q1,2,08:48,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,2,4,2,6,0,0,4,10,40.0,4,4,1,0,2,93,89
+E2025,233,Maccabi Rapyd Tel Aviv vs Panathinaikos AKTOR Athens,P013699,"CLARK III, JIMMY",Maccabi Rapyd Tel Aviv,Q1,1,09:54,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,3,4,1,4,0,0,4,8,50.0,1,1,1,0,3,75,71
+E2025,234,Paris Basketball vs Dubai Basketball,P014178,"RHODEN, JARED",Paris Basketball,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),True,19,3,4,3,7,4,6,6,11,54.5,1,0,3,6,3,79,99
+E2025,235,Real Madrid vs AS Monaco,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:25,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,2,4,2,5,2,2,4,9,44.4,4,2,0,0,2,90,78
+E2025,236,EA7 Emporio Armani Milan vs Zalgiris Kaunas,P012878,"WRIGHT, MOSES",Zalgiris Kaunas,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,1,10,1,3,5,5,2,13,15.4,6,2,2,0,0,82,86
+E2025,237,Fenerbahce Beko Istanbul vs Kosner Baskonia Vitoria-Gasteiz,P006961,"BIBEROVIC, TARIK",Fenerbahce Beko Istanbul,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,2,4,2,4,2,2,4,8,50.0,2,1,3,0,1,84,71
+E2025,238,LDLC ASVEL Villeurbanne vs FC Barcelona,P002939,"SATORANSKY, TOMAS",FC Barcelona,Q1,1,09:14,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,1,2,3,3,0,0,4,5,80.0,4,5,1,1,3,91,98
+E2025,239,Partizan Mozzart Bet Belgrade vs Hapoel IBI Tel Aviv,P006760,"BONGA, ISAAC",Partizan Mozzart Bet Belgrade,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,4,9,0,5,2,2,4,14,28.6,9,3,2,2,4,104,101
+E2025,240,Virtus Bologna vs Crvena Zvezda Meridianbet Belgrade,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),False,16,3,6,3,9,1,2,6,15,40.0,0,2,1,1,1,93,102
+E2025,241,Paris Basketball vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:33,FTA,Missed Free Throw (1/2 -  1 pt),False,16,3,5,3,8,1,2,6,13,46.2,7,3,1,1,1,98,92
+E2025,242,Fenerbahce Beko Istanbul vs Anadolu Efes Istanbul,P008176,"MUTAF, DAVID",Anadolu Efes Istanbul,Q1,1,09:01,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,1,1,0,3,0,0,1,4,25.0,0,1,0,0,1,79,62
+E2025,243,Hapoel IBI Tel Aviv vs FC Bayern Munich,P002580,"MICIC, VASILIJE",Hapoel IBI Tel Aviv,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,13,1,3,3,8,2,2,4,11,36.4,2,5,3,3,2,64,79
+E2025,244,Olympiacos Piraeus vs FC Barcelona,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,20,4,8,3,6,3,3,7,14,50.0,11,0,1,2,1,87,75
+E2025,245,Valencia Basket vs Maccabi Rapyd Tel Aviv,P013381,"RAYMAN, WILLIAM",Maccabi Rapyd Tel Aviv,Q1,2,08:51,2FGA,Missed Two Pointer (0/1 -  0 pt),False,7,1,2,1,3,2,2,2,5,40.0,4,0,0,0,4,94,83
+E2025,246,EA7 Emporio Armani Milan vs Partizan Mozzart Bet Belgrade,P006760,"BONGA, ISAAC",Partizan Mozzart Bet Belgrade,Q1,1,09:00,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,4,0,1,4,4,1,5,20.0,4,0,0,0,3,85,79
+E2025,247,AS Monaco vs Virtus Bologna,P011226,"DIALLO, ALPHA",AS Monaco,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,3,5,0,3,2,2,3,8,37.5,7,1,1,0,2,82,84
+E2025,248,Kosner Baskonia Vitoria-Gasteiz vs Zalgiris Kaunas,P011948,"HOWARD, MARKUS",Kosner Baskonia Vitoria-Gasteiz,Q1,2,08:40,3FGA,Missed Three Pointer (0/1 -  2 pt),False,15,3,5,3,8,0,0,6,13,46.2,3,2,1,0,0,102,91
+E2025,249,Crvena Zvezda Meridianbet Belgrade vs Dubai Basketball,P013363,"NWORA, JORDAN",Crvena Zvezda Meridianbet Belgrade,Q1,2,08:29,3FGA,Missed Three Pointer (0/1 -  0 pt),False,22,7,11,1,6,5,5,8,17,47.1,4,1,1,0,2,95,92
+E2025,250,LDLC ASVEL Villeurbanne vs Panathinaikos AKTOR Athens,P012608,"SHORTS, TJ",Panathinaikos AKTOR Athens,Q1,1,09:18,3FGA,Missed Three Pointer (0/1 -  0 pt),False,2,0,4,0,1,2,2,0,5,0.0,2,2,3,1,1,78,79
+E2025,251,Anadolu Efes Istanbul vs Valencia Basket,P011217,"TAYLOR, KAMERON",Valencia Basket,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,2,1,4,0,0,3,6,50.0,2,0,0,1,3,107,90
+E2025,252,Crvena Zvezda Meridianbet Belgrade vs Hapoel IBI Tel Aviv,P002580,"MICIC, VASILIJE",Hapoel IBI Tel Aviv,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,1,1,3,0,0,1,4,25.0,2,3,1,0,1,87,75
+E2025,253,Dubai Basketball vs Olympiacos Piraeus,P003469,"VEZENKOV, SASHA",Olympiacos Piraeus,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,4,10,0,1,4,4,4,11,36.4,5,2,1,0,1,108,98
+E2025,254,EA7 Emporio Armani Milan vs Kosner Baskonia Vitoria-Gasteiz,P012593,"ELLIS, QUINN",EA7 Emporio Armani Milan,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,9,2,4,1,1,2,2,3,5,60.0,4,4,3,0,0,109,89
+E2025,255,FC Barcelona vs Fenerbahce Beko Istanbul,P002849,"MELLI, NICOLO",Fenerbahce Beko Istanbul,Q1,1,09:38,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,1,2,1,5,2,2,2,7,28.6,4,1,1,1,2,78,82
+E2025,256,FC Bayern Munich vs Paris Basketball,P011836,"MIKE, ISIAHA",FC Bayern Munich,Q1,1,09:27,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,0,4,2,8,0,0,2,12,16.7,3,3,2,1,2,81,75
+E2025,257,Maccabi Rapyd Tel Aviv vs Partizan Mozzart Bet Belgrade,P010781,"LUNDBERG, IFFE",Maccabi Rapyd Tel Aviv,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,21,6,7,3,6,0,0,9,13,69.2,4,5,2,1,2,95,93
+E2025,258,Panathinaikos AKTOR Athens vs Real Madrid,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,7,8,1,3,2,2,8,11,72.7,2,7,2,1,3,82,81
+E2025,259,Zalgiris Kaunas vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:28,3FGA,Missed Three Pointer (0/1 -  0 pt),False,19,4,11,2,5,5,6,6,16,37.5,2,10,0,1,2,104,87
+E2025,260,Virtus Bologna vs LDLC ASVEL Villeurbanne,P014013,"WATSON, GLYNN",LDLC ASVEL Villeurbanne,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),True,19,2,6,3,6,6,6,5,12,41.7,3,5,0,2,4,70,80
+E2025,261,Dubai Basketball vs Real Madrid,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:42,2FGA,Missed Two Pointer (0/1 -  0 pt),True,15,6,14,0,3,3,4,6,17,35.3,3,1,2,0,2,93,85
+E2025,262,FC Bayern Munich vs AS Monaco,P005985,"JAMES, MIKE",AS Monaco,Q1,1,09:09,3FGA,Missed Three Pointer (0/1 -  0 pt),False,30,8,12,3,7,5,7,11,19,57.9,4,4,3,0,3,91,82
+E2025,263,Hapoel IBI Tel Aviv vs Valencia Basket,P013284,"WAINRIGHT, ISH",Hapoel IBI Tel Aviv,Q1,1,09:12,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,2,2,1,3,0,0,3,5,60.0,2,0,1,0,2,99,104
+E2025,264,Paris Basketball vs Fenerbahce Beko Istanbul,P014178,"RHODEN, JARED",Paris Basketball,Q1,1,09:33,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,3,8,2,7,4,4,5,15,33.3,2,1,4,1,3,90,92
+E2025,265,Partizan Mozzart Bet Belgrade vs Panathinaikos AKTOR Athens,P013667,"FERNANDO, BRUNO",Partizan Mozzart Bet Belgrade,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,3,6,0,0,5,6,3,6,50.0,4,1,1,0,2,78,62
+E2025,266,Anadolu Efes Istanbul vs Zalgiris Kaunas,P012878,"WRIGHT, MOSES",Zalgiris Kaunas,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,11,5,10,0,1,1,3,5,11,45.5,5,2,0,0,1,92,82
+E2025,267,Kosner Baskonia Vitoria-Gasteiz vs FC Barcelona,P013367,"FORREST, TRENT",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:29,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,1,4,0,1,4,6,1,5,20.0,3,3,2,0,2,91,97
+E2025,268,Crvena Zvezda Meridianbet Belgrade vs Maccabi Rapyd Tel Aviv,P009035,"BOLOMBOY, JOEL",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:37,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,2,0,0,0,0,0,2,0.0,6,0,1,1,1,82,83
+E2025,269,LDLC ASVEL Villeurbanne vs EA7 Emporio Armani Milan,P010465,"ANGOLA, BRAIAN",LDLC ASVEL Villeurbanne,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,23,5,12,1,6,10,11,6,18,33.3,5,0,1,2,2,76,77
+E2025,270,Olympiacos Piraeus vs Virtus Bologna,P011051,"SMAILAGIC, ALEN",Virtus Bologna,Q1,2,08:52,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,3,4,0,4,1,2,3,8,37.5,0,3,0,1,4,109,77
+E2025,271,Anadolu Efes Istanbul vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,1,8,2,8,0,0,3,16,18.8,2,1,3,1,0,91,60
+E2025,272,Olympiacos Piraeus vs Crvena Zvezda Meridianbet Belgrade,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:21,3FGA,Missed Three Pointer (0/1 -  0 pt),True,17,1,3,4,9,3,4,5,12,41.7,0,2,3,1,2,92,86
+E2025,273,Maccabi Rapyd Tel Aviv vs FC Bayern Munich,P011836,"MIKE, ISIAHA",FC Bayern Munich,Q1,1,09:06,2FGA,Missed Two Pointer (0/1 -  0 pt),False,4,2,7,0,2,0,0,2,9,22.2,4,3,1,1,3,111,106
+E2025,274,Valencia Basket vs LDLC ASVEL Villeurbanne,P010465,"ANGOLA, BRAIAN",LDLC ASVEL Villeurbanne,Q1,2,08:57,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,2,3,1,4,1,1,3,7,42.9,2,2,3,1,3,82,67
+E2025,275,FC Barcelona vs Paris Basketball,P004888,"CLYBURN, WILL",FC Barcelona,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,1,4,0,5,7,10,1,9,11.1,5,1,3,2,1,74,85
+E2025,276,Partizan Mozzart Bet Belgrade vs Real Madrid,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,3,7,1,5,5,6,4,12,33.3,6,4,0,0,1,73,77
+E2025,277,AS Monaco vs Kosner Baskonia Vitoria-Gasteiz,P005713,"KURUCS, RODIONS",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:22,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,0,6,2,2,0,0,2,8,25.0,6,3,4,0,1,102,92
+E2025,278,EA7 Emporio Armani Milan vs Dubai Basketball,P004004,"GUDURIC, MARKO",EA7 Emporio Armani Milan,Q1,1,09:11,3FGA,Missed Three Pointer (0/1 -  0 pt),False,19,6,7,2,5,1,2,8,12,66.7,2,5,2,0,1,78,96
+E2025,279,Panathinaikos AKTOR Athens vs Fenerbahce Beko Istanbul,P002849,"MELLI, NICOLO",Fenerbahce Beko Istanbul,Q1,1,09:31,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,0,1,2,4,0,0,2,5,40.0,10,4,2,0,3,83,85
+E2025,280,Zalgiris Kaunas vs Hapoel IBI Tel Aviv,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,2,08:26,3FGA,Missed Three Pointer (0/1 -  0 pt),False,17,5,9,2,4,1,2,7,13,53.8,7,4,1,1,3,93,82
+E2025,281,Fenerbahce Beko Istanbul vs Partizan Mozzart Bet Belgrade,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,2,08:53,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,1,5,2,3,2,2,3,8,37.5,8,2,0,2,3,81,78
+E2025,282,Virtus Bologna vs FC Barcelona,P007947,"VILDOZA, LUCA",Virtus Bologna,Q1,1,09:15,2FGA,Missed Two Pointer (0/1 -  0 pt),False,10,5,6,0,1,0,0,5,7,71.4,0,7,3,5,0,85,80
+E2025,283,Zalgiris Kaunas vs Olympiacos Piraeus,P008192,"TUBELIS, AZUOLAS",Zalgiris Kaunas,Q1,1,09:41,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,4,8,0,3,2,2,4,11,36.4,2,0,1,0,4,99,94
+E2025,284,AS Monaco vs Maccabi Rapyd Tel Aviv,P011219,"SORKIN, ROMAN",Maccabi Rapyd Tel Aviv,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,15,2,6,3,4,2,2,5,10,50.0,3,1,0,0,3,86,91
+E2025,285,Kosner Baskonia Vitoria-Gasteiz vs Valencia Basket,P010042,"MONTERO, JEAN",Valencia Basket,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,20,4,8,4,8,0,0,8,16,50.0,8,6,1,0,0,79,108
+E2025,286,Crvena Zvezda Meridian Belgrade vs Anadolu Efes Istanbul,P012742,"DOZIER, PJ",Anadolu Efes Istanbul,Q1,2,08:40,2FGA,Missed Two Pointer (0/1 -  0 pt),False,21,4,9,3,7,4,6,7,16,43.8,5,5,0,1,4,91,81
+E2025,287,Dubai Basketball vs LDLC ASVEL Villeurbanne,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:43,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,7,11,0,3,4,4,7,14,50.0,5,3,1,1,1,96,85
+E2025,288,Hapoel IBI Tel Aviv vs EA7 Emporio Armani Milan,P012788,"OTURU, DAN",Hapoel IBI Tel Aviv,Q1,1,09:44,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,8,10,0,0,0,0,8,10,80.0,3,0,1,0,5,92,86
+E2025,289,Panathinaikos AKTOR Athens vs Paris Basketball,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,1,2,1,6,2,2,2,8,25.0,0,4,1,0,3,99,104
+E2025,290,Real Madrid vs FC Bayern Munich,P013378,"RATHAN-MAYES, XAVIER",FC Bayern Munich,Q1,1,09:19,3FGA,Missed Three Pointer (0/1 -  0 pt),True,11,4,7,1,7,0,0,5,14,35.7,2,3,3,0,1,93,70
+E2025,291,EA7 Emporio Armani Milan vs FC Barcelona,P008985,"BOLMARO, LEANDRO",EA7 Emporio Armani Milan,Q1,1,09:05,2FGA,Missed Two Pointer (0/1 -  0 pt),False,13,3,6,2,2,1,2,5,8,62.5,4,6,0,1,1,87,84
+E2025,292,Fenerbahce Beko Istanbul vs AS Monaco,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,1,1,4,6,0,0,5,7,71.4,3,0,0,0,2,88,70
+E2025,293,Maccabi Rapyd Tel Aviv vs Hapoel IBI Tel Aviv,P013402,"BLAKENEY, ANTONIO",Hapoel IBI Tel Aviv,Q1,1,09:19,2FGA,Missed Two Pointer (0/1 -  0 pt),False,14,2,4,3,10,1,1,5,14,35.7,3,2,1,0,2,88,99
+E2025,294,Partizan Mozzart Bet Belgrade vs Dubai Basketball,P006760,"BONGA, ISAAC",Partizan Mozzart Bet Belgrade,Q1,2,08:51,3FGA,Missed Three Pointer (0/1 -  0 pt),False,14,1,2,3,5,3,4,4,7,57.1,5,0,0,1,3,88,74
+E2025,295,Real Madrid vs Virtus Bologna,P003108,"HEZONJA, MARIO",Real Madrid,Q1,2,08:44,3FGA,Missed Three Pointer (0/1 -  2 pt),False,19,3,5,3,5,4,4,6,10,60.0,6,3,6,2,3,92,84
+E2025,296,Valencia Basket vs Zalgiris Kaunas,P012878,"WRIGHT, MOSES",Zalgiris Kaunas,Q1,1,09:10,2FGA,Missed Two Pointer (0/1 -  0 pt),False,20,7,11,0,0,6,7,7,11,63.6,9,1,1,0,1,91,87
+E2025,297,Anadolu Efes Istanbul vs LDLC ASVEL Villeurbanne,P014088,"SELJAAS, ZACHARY",LDLC ASVEL Villeurbanne,Q1,1,09:23,3FGA,Missed Three Pointer (0/1 -  0 pt),False,15,1,2,3,11,4,4,4,13,30.8,5,2,1,0,5,88,91
+E2025,298,Kosner Baskonia Vitoria-Gasteiz vs Paris Basketball,P014207,"OMORUYI, EUGENE",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:00,2FGA,Missed Two Pointer (0/1 -  0 pt),False,17,4,6,1,5,6,8,5,11,45.5,4,1,5,1,1,81,97
+E2025,299,Crvena Zvezda Meridianbet Belgrade vs FC Bayern Munich,P013363,"NWORA, JORDAN",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,10,2,6,0,6,6,7,2,12,16.7,5,2,1,0,1,80,85
+E2025,300,Olympiacos Piraeus vs Panathinaikos AKTOR Athens,P004088,"OSMAN, CEDI",Panathinaikos AKTOR Athens,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,2,3,2,6,4,4,4,9,44.4,3,2,1,1,2,86,80
+E2025,301,FC Bayern Munich vs Anadolu Efes Istanbul,P010391,"WEILER-BABB, NICK",Anadolu Efes Istanbul,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,7,1,2,1,2,2,2,2,4,50.0,1,4,3,1,1,80,81
+E2025,302,Paris Basketball vs LDLC ASVEL Villeurbanne,P010465,"ANGOLA, BRAIAN",LDLC ASVEL Villeurbanne,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,2,0,6,0,0,0,8,0.0,2,4,1,0,0,90,81
+E2025,303,Real Madrid vs Valencia Basket,P011078,"THOMPSON, DARIUS",Valencia Basket,Q1,1,09:51,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,2,0,1,0,0,0,3,0.0,1,1,0,0,0,96,79
+E2025,304,Virtus Bologna vs Partizan Mozzart Bet Belgrade,P005422,"JALLOW, KARIM",Virtus Bologna,Q1,2,08:50,2FGA,Missed Two Pointer (0/1 -  0 pt),False,2,1,2,0,1,0,0,1,3,33.3,0,0,0,0,0,82,88
+E2025,305,Panathinaikos AKTOR Athens vs Zalgiris Kaunas,P011204,"GRANT, JERIAN",Panathinaikos AKTOR Athens,Q1,4,06:33,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,3,0,0,0,0,0,3,0.0,3,5,1,3,3,92,88
+E2025,306,AS Monaco vs Olympiacos Piraeus,P000848,"NEDOVIC, NEMANJA",AS Monaco,Q1,1,09:49,2FGA,Missed Two Pointer (0/1 -  0 pt),True,8,0,3,2,6,2,3,2,9,22.2,4,3,0,0,3,81,80
+E2025,307,Crvena Zvezda Meridianbet Belgrade vs Fenerbahce Beko Istanbul,P007182,"BIRCH, KHEM",Fenerbahce Beko Istanbul,Q1,1,09:20,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,4,0,0,0,1,3,4,75.0,10,0,2,0,3,79,73
+E2025,308,Dubai Basketball vs Kosner Baskonia Vitoria-Gasteiz,P011194,"PETRUSEV, FILIP",Dubai Basketball,Q1,1,09:17,2FGA,Missed Two Pointer (0/1 -  0 pt),False,11,2,7,1,1,4,6,3,8,37.5,4,2,0,0,0,100,94
+E2025,309,EA7 Emporio Armani Milan vs Maccabi Rapyd Tel Aviv,P012593,"ELLIS, QUINN",EA7 Emporio Armani Milan,Q1,1,09:20,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,3,5,0,0,6,6,3,5,60.0,4,3,2,0,3,96,87
+E2025,310,FC Barcelona vs Hapoel IBI Tel Aviv,P002580,"MICIC, VASILIJE",Hapoel IBI Tel Aviv,Q1,1,09:23,2FGA,Missed Two Pointer (0/1 -  0 pt),False,6,3,6,0,6,0,0,3,12,25.0,3,7,2,1,1,75,80
+E2025,311,FC Bayern Munich vs Dubai Basketball,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:36,2FGA,Missed Two Pointer (0/1 -  0 pt),True,21,8,10,1,4,2,2,9,14,64.3,3,6,1,3,3,74,87
+E2025,312,Hapoel IBI Tel Aviv vs Virtus Bologna,P002580,"MICIC, VASILIJE",Hapoel IBI Tel Aviv,Q1,2,08:59,3FGA,Missed Three Pointer (0/1 -  0 pt),False,12,2,2,2,5,2,2,4,7,57.1,1,5,3,1,1,109,91
+E2025,313,Olympiacos Piraeus vs Kosner Baskonia Vitoria-Gasteiz,P014027,"DIAKITE, MAMADI",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,11,4,7,0,5,3,3,4,12,33.3,5,5,0,2,3,90,80
+E2025,314,Paris Basketball vs Partizan Mozzart Bet Belgrade,P010581,"OSETKOWSKI, DYLAN",Partizan Mozzart Bet Belgrade,Q1,1,09:47,3FGA,Missed Three Pointer (0/1 -  0 pt),True,0,0,2,0,3,0,0,0,5,0.0,3,0,1,0,2,81,90
+E2025,315,Valencia Basket vs FC Barcelona,P007464,"PARRA, JOEL",FC Barcelona,Q1,1,09:39,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,7,10,0,2,0,0,7,12,58.3,9,1,0,1,3,62,66
+E2025,316,Anadolu Efes Istanbul vs AS Monaco,P007109,"SMITS, ROLANDS",Anadolu Efes Istanbul,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,12,3,5,1,2,3,4,4,7,57.1,4,1,2,0,3,93,98
+E2025,317,Fenerbahce Beko Istanbul vs EA7 Emporio Armani Milan,P014016,"BOSTON JR., BRANDON",Fenerbahce Beko Istanbul,Q1,2,08:57,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,5,1,4,0,0,2,9,22.2,3,0,0,1,0,79,75
+E2025,318,LDLC ASVEL Villeurbanne vs Maccabi Rapyd Tel Aviv,P013403,"WALKER IV, LONNIE",Maccabi Rapyd Tel Aviv,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),True,2,0,2,0,4,2,2,0,6,0.0,1,3,0,0,1,85,89
+E2025,319,Panathinaikos AKTOR Athens vs Crvena Zvezda Meridianbet Belgrade,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:34,3FGA,Missed Three Pointer (0/1 -  0 pt),True,20,5,6,3,8,1,1,8,14,57.1,3,1,6,1,1,82,74
+E2025,320,Zalgiris Kaunas vs Real Madrid,P003733,"ABALDE, ALBERTO",Real Madrid,Q1,1,09:45,2FGA,Missed Two Pointer (0/1 -  0 pt),True,0,0,2,0,0,0,0,0,2,0.0,4,4,0,0,2,87,85
+E2025,321,AS Monaco vs EA7 Emporio Armani Milan,P000848,"NEDOVIC, NEMANJA",AS Monaco,Q1,2,08:53,3FGA,Missed Three Pointer (0/1 -  0 pt),False,5,1,2,1,3,0,0,2,5,40.0,0,1,0,0,3,90,85
+E2025,322,Dubai Basketball vs Panathinaikos AKTOR Athens,P012606,"WRIGHT IV, MCKINLEY",Dubai Basketball,Q1,1,09:45,FTA,Missed Free Throw (0/1 -  0 pt),True,9,3,7,0,0,3,4,3,7,42.9,4,8,4,0,3,104,107
+E2025,323,FC Barcelona vs Anadolu Efes Istanbul,P009862,"PUNTER, KEVIN",FC Barcelona,Q1,1,09:42,3FGA,Missed Three Pointer (0/1 -  0 pt),True,9,2,6,1,3,2,2,3,9,33.3,0,2,2,0,2,78,71
+E2025,324,Maccabi Rapyd Tel Aviv vs Fenerbahce Beko Istanbul,P009783,"COLSON, BONZIE",Fenerbahce Beko Istanbul,Q1,2,08:59,3FGA,Missed Three Pointer (0/1 -  0 pt),False,7,1,1,1,3,2,2,2,4,50.0,1,0,1,0,1,94,89
+E2025,325,Partizan Mozzart Bet Belgrade vs LDLC ASVEL Villeurbanne,P012618,"MASSA, BODIAN",LDLC ASVEL Villeurbanne,Q1,1,09:02,2FGA,Missed Two Pointer (1/2 -  2 pt),False,7,3,4,0,0,1,4,3,4,75.0,3,0,1,1,4,79,78
+E2025,326,Real Madrid vs Hapoel IBI Tel Aviv,P002580,"MICIC, VASILIJE",Hapoel IBI Tel Aviv,Q1,1,09:24,3FGA,Missed Three Pointer (0/1 -  0 pt),False,8,2,5,1,6,1,1,3,11,27.3,5,4,2,0,2,92,83
+E2025,327,Valencia Basket vs Olympiacos Piraeus,P009849,"DORSEY, TYLER",Olympiacos Piraeus,Q1,1,09:32,3FGA,Missed Three Pointer (0/1 -  0 pt),True,6,0,2,1,4,3,4,1,6,16.7,2,1,1,1,2,85,84
+E2025,328,Virtus Bologna vs Paris Basketball,P014178,"RHODEN, JARED",Paris Basketball,Q1,1,09:37,3FGA,Missed Three Pointer (0/1 -  0 pt),True,8,2,3,1,3,1,2,3,6,50.0,5,2,1,1,1,82,103
+E2025,329,Zalgiris Kaunas vs FC Bayern Munich,P007975,"FRANCISCO, SYLVAIN",Zalgiris Kaunas,Q1,1,09:40,3FGA,Missed Three Pointer (0/1 -  0 pt),True,14,4,6,1,7,3,3,5,13,38.5,1,7,1,3,0,78,71
+E2025,330,Kosner Baskonia Vitoria-Gasteiz vs Crvena Zvezda Meridianbet Belgrade,P014190,"RADZEVICIUS, GYTIS",Kosner Baskonia Vitoria-Gasteiz,Q1,2,08:08,3FGA,Missed Three Pointer (1/2 -  3 pt),False,8,2,2,1,3,1,1,3,5,60.0,3,0,2,0,2,100,108
+E2025,331,EA7 Emporio Armani Milan vs Virtus Bologna,P011987,"EDWARDS, CARSEN",Virtus Bologna,Q1,1,09:35,3FGA,Missed Three Pointer (0/1 -  0 pt),True,3,0,3,1,3,0,0,1,6,16.7,0,2,2,0,1,103,87
+E2025,332,FC Bayern Munich vs LDLC ASVEL Villeurbanne,P013378,"RATHAN-MAYES, XAVIER",FC Bayern Munich,Q1,1,09:50,FTA,Missed Free Throw (0/1 -  2 pt),False,12,3,6,2,5,0,1,5,11,45.5,3,4,2,1,2,93,83
+E2025,333,Maccabi Rapyd Tel Aviv vs Dubai Basketball,P011286,"BACON, DWAYNE",Dubai Basketball,Q1,1,09:34,2FGA,Missed Two Pointer (0/1 -  0 pt),True,16,3,10,2,9,4,5,5,19,26.3,7,1,2,0,1,104,100
+E2025,334,Paris Basketball vs Olympiacos Piraeus,P014008,"ROBINSON, JUSTIN",Paris Basketball,Q1,1,09:04,3FGA,Missed Three Pointer (0/1 -  0 pt),False,18,4,5,2,4,4,4,6,9,66.7,1,9,3,1,1,87,104
+E2025,335,Real Madrid vs Anadolu Efes Istanbul,P003108,"HEZONJA, MARIO",Real Madrid,Q1,1,09:22,2FGA,Missed Two Pointer (0/1 -  0 pt),False,12,4,8,1,3,1,1,5,11,45.5,4,0,1,0,0,82,71
+E2025,336,Kosner Baskonia Vitoria-Gasteiz vs Hapoel IBI Tel Aviv,P005713,"KURUCS, RODIONS",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:25,3FGA,Missed Three Pointer (0/1 -  0 pt),False,9,3,5,1,4,0,0,4,9,44.4,2,1,0,0,1,118,109
+E2025,337,FC Barcelona vs Crvena Zvezda Meridianbet Belgrade,P001133,"SHENGELIA, TORNIKE",FC Barcelona,Q1,1,09:22,2FGA,Missed Two Pointer (0/1 -  0 pt),False,9,2,4,0,3,5,6,2,7,28.6,4,2,1,1,0,92,88
+E2025,338,Fenerbahce Beko Istanbul vs Zalgiris Kaunas,P008192,"TUBELIS, AZUOLAS",Zalgiris Kaunas,Q1,1,09:03,3FGA,Missed Three Pointer (0/1 -  0 pt),False,13,6,6,0,1,1,1,6,7,85.7,3,1,2,0,4,82,92
+E2025,339,Panathinaikos AKTOR Athens vs AS Monaco,P012774,"NUNN, KENDRICK",Panathinaikos AKTOR Athens,Q1,1,09:22,3FGA,Missed Three Pointer (0/1 -  0 pt),False,25,4,8,5,14,2,3,9,22,40.9,3,5,1,1,2,107,97
+E2025,340,Partizan Mozzart Bet Belgrade vs Valencia Basket,P013667,"FERNANDO, BRUNO",Partizan Mozzart Bet Belgrade,Q1,1,09:39,2FGA,Missed Two Pointer (0/1 -  0 pt),True,4,1,4,0,0,2,2,1,4,25.0,3,0,3,1,2,110,104
+E2025,341,Maccabi Rapyd Tel Aviv vs Anadolu Efes Istanbul,P013403,"WALKER IV, LONNIE",Maccabi Rapyd Tel Aviv,Q1,1,09:04,2FGA,Missed Two Pointer (0/1 -  0 pt),False,25,3,6,5,7,4,4,8,13,61.5,1,3,4,1,2,103,89
+E2025,342,Crvena Zvezda Meridianbet Belgrade vs Partizan Mozzart Bet Belgrade,P011305,"CARTER, TYSON",Crvena Zvezda Meridianbet Belgrade,Q1,1,09:21,2FGA,Missed Two Pointer (0/1 -  0 pt),False,0,0,2,0,0,0,0,0,2,0.0,0,0,0,0,1,82,89
+E2025,343,Hapoel IBI Tel Aviv vs Panathinaikos AKTOR Athens,P009846,"BRYANT, ELIJAH",Hapoel IBI Tel Aviv,Q1,1,09:46,2FGA,Missed Two Pointer (0/1 -  0 pt),True,18,7,12,0,1,4,4,7,13,53.8,3,3,2,0,2,92,88
+E2025,344,Paris Basketball vs EA7 Emporio Armani Milan,P004004,"GUDURIC, MARKO",EA7 Emporio Armani Milan,Q1,1,09:15,3FGA,Missed Three Pointer (0/1 -  0 pt),False,9,1,1,0,2,7,7,1,3,33.3,5,5,1,1,3,103,93
+E2025,345,Zalgiris Kaunas vs FC Barcelona,P012878,"WRIGHT, MOSES",Zalgiris Kaunas,Q1,2,08:42,2FGA,Missed Two Pointer (0/1 -  0 pt),False,18,7,11,1,1,1,2,8,12,66.7,11,0,1,0,0,83,71
+E2025,346,Kosner Baskonia Vitoria-Gasteiz vs Real Madrid,P014207,"OMORUYI, EUGENE",Kosner Baskonia Vitoria-Gasteiz,Q1,1,09:18,2FGA,Missed Two Pointer (0/1 -  0 pt),False,15,1,6,3,6,4,4,4,12,33.3,3,0,1,0,2,98,96
+E2025,347,Dubai Basketball vs AS Monaco,P011194,"PETRUSEV, FILIP",Dubai Basketball,Q1,1,09:40,2FGA,Missed Two Pointer (0/1 -  0 pt),True,3,1,5,0,1,1,2,1,6,16.7,5,1,3,1,3,101,91
+E2025,348,FC Bayern Munich vs Fenerbahce Beko Istanbul,P013290,"JESSUP, JUSTINIAN",FC Bayern Munich,Q1,1,09:41,3FGA,Missed Three Pointer (0/1 -  0 pt),True,16,0,1,5,9,1,2,5,10,50.0,2,3,1,3,3,85,76
+E2025,349,LDLC ASVEL Villeurbanne vs Olympiacos Piraeus,P006725,"EBOUA, PAUL",LDLC ASVEL Villeurbanne,Q1,2,08:49,2FGA,Missed Two Pointer (0/1 -  0 pt),False,3,0,3,1,3,0,0,1,6,16.7,4,1,0,0,4,74,82
+E2025,350,Virtus Bologna vs Valencia Basket,P014005,"ALSTON JR. , DERRICK",Virtus Bologna,Q1,1,09:43,3FGA,Missed Three Pointer (0/1 -  0 pt),True,10,0,4,1,4,7,7,1,8,12.5,2,0,1,0,2,81,94
