@@ -1,0 +1,4 @@
+scope,games,both_scored,both_scored_pct,partial_scored,partial_scored_pct,first_only_scored,first_only_scored_pct,last_only_scored,last_only_scored_pct,both_missed,both_missed_pct,avg_shots_scored,first_shot_in,first_shot_in_pct,last_shot_in,last_shot_in_pct,first_2p_pct,first_3p_pct,first_ft_pct,last_2p_pct,last_3p_pct,last_ft_pct,first_in_pct_when_2p,first_in_pct_when_3p,first_in_pct_when_ft,last_in_pct_when_2p,last_in_pct_when_3p,last_in_pct_when_ft,expected_both_scored_pct,same_player_both_ends
+E2024,330,54,16.4,165,50.0,108,32.7,57,17.3,111,33.6,0.83,162,49.1,111,33.6,65.2,31.5,3.3,34.8,53.6,11.5,50.7,42.3,81.8,47.8,17.5,65.8,16.5,17
+E2025,350,64,18.3,166,47.4,104,29.7,62,17.7,120,34.3,0.84,168,48.0,126,36.0,61.1,34.3,4.6,39.1,50.9,10.0,54.2,31.7,87.5,54.7,14.6,71.4,17.3,24
+ALL,680,118,17.4,331,48.7,212,31.2,119,17.5,231,34.0,0.83,330,48.5,237,34.9,63.1,32.9,4.0,37.1,52.2,10.7,52.4,36.6,85.2,51.6,16.1,68.5,16.9,41

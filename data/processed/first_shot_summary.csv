@@ -1,0 +1,4 @@
+scope,games,first_shot_in,first_shot_out,first_shot_in_pct,first_shot_out_pct,shot_2p,shot_3p,shot_ft,shot_2p_pct,shot_3p_pct,shot_ft_pct,in_pct_when_2p,in_pct_when_3p,in_pct_when_ft,avg_pts_scorer,median_pts_scorer,avg_fg_pct_scorer
+E2024,330,162,168,49.1,50.9,215,104,11,65.2,31.5,3.3,50.7,42.3,81.8,12.59,11.0,56.0
+E2025,350,168,182,48.0,52.0,214,120,16,61.1,34.3,4.6,54.2,31.7,87.5,12.99,12.0,57.1
+ALL,680,330,350,48.5,51.5,429,224,27,63.1,32.9,4.0,52.4,36.6,85.2,12.8,12.0,56.5
