@@ -21,6 +21,11 @@ AWAY_COLOR = "#eb6834"
 
 SEASON_LABELS = {"E2024": "2024-25", "E2025": "2025-26", "E2026": "2026-27"}
 
+SHOT_TYPES = {"2FGM", "2FGA", "3FGM", "3FGA", "FTM", "FTA"}
+MADE_SHOT_TYPES = {"2FGM", "3FGM", "FTM"}
+SHOT_KIND = {"2FGM": ("2PT", 2), "2FGA": ("2PT", 2), "3FGM": ("3PT", 3),
+             "3FGA": ("3PT", 3), "FTM": ("FT", 1), "FTA": ("FT", 1)}
+
 PLAY_CATEGORIES = {
     "Shots": {"2FGM", "2FGA", "3FGM", "3FGA", "FTM", "FTA"},
     "Rebounds": {"O", "D"},
@@ -194,6 +199,23 @@ def game_facts(plays: pd.DataFrame, game: pd.Series) -> pd.DataFrame:
 
     def team_of(row):
         return name.get(row.team_code, row.team_code)
+
+    # First shot attempts (same definition as src/first_shot_analysis.py: FGs and FTs)
+    shots = plays[plays["play_type"].isin(SHOT_TYPES)]
+
+    def describe_shot(row, with_team=True):
+        kind, value = SHOT_KIND[row.play_type]
+        outcome = f"✅ Made (+{value})" if row.play_type in MADE_SHOT_TYPES else "❌ Missed"
+        who = f"{team_of(row)} – {row.player_name}" if with_team else row.player_name
+        return f"{outcome} · {kind} · {who} ({row.marker_time} {row.period})"
+
+    for label, pos in (("First", 0), ("Last", -1)):
+        if not shots.empty:
+            facts.append((f"{label} shot of game", describe_shot(shots.iloc[pos])))
+        for code, team in ((game.team_a_code, game.team_a_name), (game.team_b_code, game.team_b_name)):
+            team_shots = shots[shots["team_code"] == code]
+            if not team_shots.empty:
+                facts.append((f"{label} shot · {team}", describe_shot(team_shots.iloc[pos], with_team=False)))
 
     if not s.empty:
         first = s.iloc[0]
@@ -413,7 +435,8 @@ def main():
             st.subheader("Points by period")
             st.plotly_chart(quarter_points_chart(qs, game), width="stretch")
             st.subheader("Game facts")
-            st.dataframe(game_facts(plays, game), hide_index=True, width="stretch")
+            facts = game_facts(plays, game)
+            st.dataframe(facts, hide_index=True, width="stretch", height=38 + 35 * len(facts))
 
     # --- box score
     with tab_box:
