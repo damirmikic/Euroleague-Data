@@ -460,11 +460,13 @@ def main():
             if box.empty:
                 st.caption("No player data.")
                 continue
-            box["Player"] = [f"{p} {markers[(code, p)]}" if (code, p) in markers else p for p in box["Player"]]
+            # Marker goes before the name so a truncated long name can't hide it
+            box["Player"] = [f"{markers[(code, p)]} {p}" if (code, p) in markers else p for p in box["Player"]]
             totals = box.drop(columns=["#", "Player"]).sum()
             box_tot = pd.concat([box, pd.DataFrame([{"#": "", "Player": "TOTAL", **totals.to_dict()}])], ignore_index=True)
             st.dataframe(box_tot, hide_index=True, width="stretch",
-                         height=min(38 + 35 * len(box_tot), 640))
+                         height=min(38 + 35 * len(box_tot), 640),
+                         column_config={"Player": st.column_config.TextColumn(width="large")})
 
     # --- play-by-play
     with tab_pbp:
