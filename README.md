@@ -28,6 +28,7 @@ Euroleague Data/
 │   ├── parser.py                         # Data transformer & enriched metrics
 │   ├── pipeline.py                       # Master CLI runner
 │   └── fetch_current_season.py           # Incremental fetcher for the current season (E2026)
+├── app.py                                # Streamlit game dashboard
 ├── requirements.txt
 └── README.md
 ```
@@ -139,6 +140,20 @@ ORDER BY season, game_code, elapsed_seconds_in_game;
 ```
 
 ---
+
+## 🖥️ Game Dashboard
+
+Interactive dashboard to pick a game and explore it:
+
+```bash
+streamlit run app.py
+```
+
+- **Game picker** (sidebar): season → team filter → game
+- **Scoreboard** with period-by-period scores (overtimes split into OT1, OT2, …)
+- **Overview**: lead changes, ties, largest leads, best runs, time leading, score progression & lead charts, team comparison, points by period, betting facts (first/last points, race to 10/20/30, half-time, margin)
+- **Box score**: per-player points, shooting splits, rebounds, assists, steals, turnovers, blocks, fouls
+- **Play-by-play**: filter by period, team, event type, player or scoring plays; CSV download
 
 ## 🔄 Updating / Re-running the Pipeline
 
