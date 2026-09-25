@@ -26,6 +26,9 @@ MADE_SHOT_TYPES = {"2FGM", "3FGM", "FTM"}
 SHOT_KIND = {"2FGM": ("2PT", 2), "2FGA": ("2PT", 2), "3FGM": ("3PT", 3),
              "3FGA": ("3PT", 3), "FTM": ("FT", 1), "FTA": ("FT", 1)}
 
+FIRST_POINTS_MARK = "⭐"
+LAST_POINTS_MARK = "🏁"
+
 PLAY_CATEGORIES = {
     "Shots": {"2FGM", "2FGA", "3FGM", "3FGA", "FTM", "FTA"},
     "Rebounds": {"O", "D"},
@@ -440,6 +443,15 @@ def main():
 
     # --- box score
     with tab_box:
+        # Mark the players who scored the game's first and last points
+        scoring = scoring_events(plays)
+        markers = {}
+        if not scoring.empty:
+            for row, symbol in ((scoring.iloc[0], FIRST_POINTS_MARK), (scoring.iloc[-1], LAST_POINTS_MARK)):
+                key = (row.team_code, row.player_name)
+                markers[key] = markers.get(key, "") + symbol
+        st.caption(f"{FIRST_POINTS_MARK} scored the game's first points · {LAST_POINTS_MARK} scored the game's last points")
+
         for code, name, color in ((game.team_a_code, game.team_a_name, HOME_COLOR),
                                   (game.team_b_code, game.team_b_name, AWAY_COLOR)):
             st.markdown(f"#### <span style='color:{color}'>■</span> {name}", unsafe_allow_html=True)
@@ -447,6 +459,7 @@ def main():
             if box.empty:
                 st.caption("No player data.")
                 continue
+            box["Player"] = [f"{p} {markers[(code, p)]}" if (code, p) in markers else p for p in box["Player"]]
             totals = box.drop(columns=["#", "Player"]).sum()
             box_tot = pd.concat([box, pd.DataFrame([{"#": "", "Player": "TOTAL", **totals.to_dict()}])], ignore_index=True)
             st.dataframe(box_tot, hide_index=True, width="stretch",
