@@ -6,14 +6,22 @@ stats, betting-relevant game facts and the full play-by-play.
 
     streamlit run app.py
 """
+import logging
 import sqlite3
+from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-DB_PATH = Path(__file__).resolve().parent / "data" / "processed" / "euroleague.db"
+from src.scraper import EuroleagueScraper, CURRENT_SEASON
+from src.pipeline import run_pipeline, DEFAULT_SEASONS
+
+ROOT = Path(__file__).resolve().parent
+RAW_DIR = ROOT / "data" / "raw"
+PROCESSED_DIR = ROOT / "data" / "processed"
+DB_PATH = PROCESSED_DIR / "euroleague.db"
 
 # Categorical slots 1 & 2 of the reference palette: home = blue, away = orange
 HOME_COLOR = "#2a78d6"
@@ -43,15 +51,21 @@ st.set_page_config(page_title="EuroLeague Game Dashboard", page_icon="🏀", lay
 
 
 # ---------------------------------------------------------------- data access
+# Loaders take the DB's modification time as a cache key, so the dashboard
+# picks up a rebuilt database (button or command line) without a restart.
+def db_version() -> float:
+    return DB_PATH.stat().st_mtime
+
+
 @st.cache_data
-def load_games() -> pd.DataFrame:
+def load_games(version: float) -> pd.DataFrame:
     with sqlite3.connect(DB_PATH) as conn:
         games = pd.read_sql("SELECT * FROM games ORDER BY season, game_code", conn)
     return games
 
 
 @st.cache_data
-def load_plays(season: str, game_code: int) -> pd.DataFrame:
+def load_plays(season: str, game_code: int, version: float) -> pd.DataFrame:
     with sqlite3.connect(DB_PATH) as conn:
         plays = pd.read_sql(
             "SELECT * FROM plays WHERE season = ? AND game_code = ? "
@@ -356,12 +370,48 @@ def game_label(g: pd.Series) -> str:
     return f"#{g.game_code} · {g.team_a_name} {g.final_score_a}–{g.final_score_b} {g.team_b_name}{ot}"
 
 
+def refresh_data(games: pd.DataFrame) -> int:
+    """Fetches newly finished current-season games; rebuilds the DB if any. Returns # new games."""
+    known = int((games["season"] == CURRENT_SEASON).sum())
+    scraper = EuroleagueScraper(raw_dir=str(RAW_DIR))
+    collected = scraper.fetch_season(CURRENT_SEASON, ongoing=True)
+    new_games = collected - known
+    if new_games > 0:
+        run_pipeline(seasons=DEFAULT_SEASONS, raw_dir=str(RAW_DIR),
+                     processed_dir=str(PROCESSED_DIR), skip_scrape=True)
+    return new_games
+
+
+def refresh_panel(games: pd.DataFrame):
+    st.sidebar.divider()
+    updated = datetime.fromtimestamp(db_version()).strftime("%d %b %Y, %H:%M")
+    st.sidebar.caption(f"Data last rebuilt: {updated}")
+
+    if st.sidebar.button("🔄 Fetch new games", width="stretch",
+                         help=f"Download newly finished {SEASON_LABELS.get(CURRENT_SEASON, CURRENT_SEASON)} games and reload"):
+        try:
+            with st.spinner("Fetching new games from live.euroleague.net…"):
+                new_games = refresh_data(games)
+        except Exception as e:
+            logging.exception("Refresh failed")
+            st.sidebar.error(f"Refresh failed: {e}")
+            return
+        st.session_state["refresh_msg"] = (
+            f"✅ {new_games} new game{'s' if new_games != 1 else ''} added" if new_games > 0
+            else "Already up to date – no new finished games"
+        )
+        st.rerun()
+
+    if msg := st.session_state.pop("refresh_msg", None):
+        st.sidebar.success(msg) if msg.startswith("✅") else st.sidebar.info(msg)
+
+
 def main():
     if not DB_PATH.exists():
         st.error(f"Database not found at {DB_PATH}. Run `python src/pipeline.py` first.")
         return
 
-    games = load_games()
+    games = load_games(db_version())
 
     # --- sidebar: game picker
     st.sidebar.title("🏀 EuroLeague")
@@ -376,14 +426,16 @@ def main():
 
     if sg.empty:
         st.info("No games for this selection.")
+        refresh_panel(games)
         return
 
     sg = sg.sort_values("game_code", ascending=False)
     game_idx = st.sidebar.selectbox("Game", sg.index, format_func=lambda i: game_label(sg.loc[i]))
     game = sg.loc[game_idx]
     st.sidebar.caption(f"{len(sg)} games · data from live.euroleague.net")
+    refresh_panel(games)
 
-    plays = load_plays(season, game.game_code)
+    plays = load_plays(season, game.game_code, db_version())
     if plays.empty:
         st.warning("No play-by-play data for this game.")
         return

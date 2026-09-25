@@ -154,6 +154,7 @@ streamlit run app.py
 - **Overview**: lead changes, ties, largest leads, best runs, time leading, score progression & lead charts, team comparison, points by period, betting facts (first/last points, race to 10/20/30, half-time, margin)
 - **Box score**: per-player points, shooting splits, rebounds, assists, steals, turnovers, blocks, fouls
 - **Play-by-play**: filter by period, team, event type, player or scoring plays; CSV download
+- **🔄 Fetch new games** (sidebar): downloads newly finished current-season games, rebuilds the datasets and reloads the dashboard in one click. The dashboard also reloads automatically whenever `euroleague.db` is rebuilt from the command line.
 
 ## 🔄 Updating / Re-running the Pipeline
 
