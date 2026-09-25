@@ -411,6 +411,10 @@ def main():
 
     # --- overview
     with tab_overview:
+        st.subheader("Game facts")
+        facts = game_facts(plays, game)
+        st.dataframe(facts, hide_index=True, width="stretch", height=38 + 35 * len(facts))
+
         fm = flow_metrics(plays, game)
         k = st.columns(4)
         k[0].metric("Lead changes", fm["lead_changes"])
@@ -437,9 +441,6 @@ def main():
         with c2:
             st.subheader("Points by period")
             st.plotly_chart(quarter_points_chart(qs, game), width="stretch")
-            st.subheader("Game facts")
-            facts = game_facts(plays, game)
-            st.dataframe(facts, hide_index=True, width="stretch", height=38 + 35 * len(facts))
 
     # --- box score
     with tab_box:
