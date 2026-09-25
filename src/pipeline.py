@@ -8,7 +8,7 @@ import pandas as pd
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from src.scraper import EuroleagueScraper
+from src.scraper import EuroleagueScraper, CURRENT_SEASON
 from src.parser import process_season_raw
 
 logging.basicConfig(
@@ -17,6 +17,8 @@ logging.basicConfig(
     datefmt="%H:%M:%S"
 )
 logger = logging.getLogger("euroleague_pipeline")
+
+DEFAULT_SEASONS = ["E2024", "E2025", CURRENT_SEASON]
 
 def save_sqlite(db_path: Path, games_df: pd.DataFrame, plays_df: pd.DataFrame):
     """Saves DataFrames into SQLite database with optimized indexes."""
@@ -48,7 +50,7 @@ def run_pipeline(
     max_games: int = 350
 ):
     if seasons is None:
-        seasons = ["E2024", "E2025"]
+        seasons = DEFAULT_SEASONS
 
     raw_path = Path(raw_dir)
     proc_path = Path(processed_dir)
@@ -106,7 +108,7 @@ def run_pipeline(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Euroleague Play-by-Play Data Pipeline")
-    parser.add_argument("--seasons", nargs="+", default=["E2024", "E2025"], help="Seasons to process (e.g. E2024 E2025)")
+    parser.add_argument("--seasons", nargs="+", default=DEFAULT_SEASONS, help="Seasons to process (e.g. E2024 E2025 E2026)")
     parser.add_argument("--skip-scrape", action="store_true", help="Skip scraping and process cached files only")
     parser.add_argument("--force-scrape", action="store_true", help="Force re-download of already cached games")
     parser.add_argument("--delay", type=float, default=0.35, help="Delay in seconds between requests (default: 0.35)")

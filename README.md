@@ -1,6 +1,6 @@
-# EuroLeague Play-by-Play Dataset (2024 & 2025)
+# EuroLeague Play-by-Play Dataset (2024, 2025 & 2026)
 
-Comprehensive play-by-play and game metadata dataset for EuroLeague **2024-2025 (`E2024`)** and **2025-2026 (`E2025`)** seasons, scraped directly from the official EuroLeague Live API (`live.euroleague.net`).
+Comprehensive play-by-play and game metadata dataset for EuroLeague **2024-2025 (`E2024`)** and **2025-2026 (`E2025`)** seasons, plus the in-progress **2026-2027 (`E2026`)** season, scraped directly from the official EuroLeague Live API (`live.euroleague.net`).
 
 ---
 
@@ -11,7 +11,8 @@ Euroleague Data/
 ├── data/
 │   ├── raw/                              # Cached raw JSON responses from EuroLeague API
 │   │   ├── E2024/game_{id}.json
-│   │   └── E2025/game_{id}.json
+│   │   ├── E2025/game_{id}.json
+│   │   └── E2026/game_{id}.json          # Current season (finished games only)
 │   └── processed/                        # Structured tabular datasets
 │       ├── euroleague_games.csv          # Combined games metadata (E2024 + E2025)
 │       ├── euroleague_plays.csv          # Combined play-by-play events (E2024 + E2025)
@@ -25,7 +26,8 @@ Euroleague Data/
 ├── src/
 │   ├── scraper.py                        # Resilient scraper with rate-limiting & backoff
 │   ├── parser.py                         # Data transformer & enriched metrics
-│   └── pipeline.py                       # Master CLI runner
+│   ├── pipeline.py                       # Master CLI runner
+│   └── fetch_current_season.py           # Incremental fetcher for the current season (E2026)
 ├── requirements.txt
 └── README.md
 ```
@@ -140,11 +142,22 @@ ORDER BY season, game_code, elapsed_seconds_in_game;
 
 ## 🔄 Updating / Re-running the Pipeline
 
-To re-run or scrape new upcoming games:
+### Current season (2026-27)
 
 ```bash
-# Update both 2024 and 2025 seasons
-python src/pipeline.py --seasons E2024 E2025
+# Fetch newly finished E2026 games and rebuild all processed datasets
+python src/fetch_current_season.py
+```
+
+The current season (`CURRENT_SEASON` in `src/scraper.py`) is fetched in *ongoing* mode:
+unplayed and live games are never cached, so re-running after each round picks up new
+results. Scraping stops at the first run of 10 empty game codes.
+
+### Full pipeline
+
+```bash
+# Update all seasons (E2024, E2025, E2026)
+python src/pipeline.py
 
 # Force re-download all games
 python src/pipeline.py --force-scrape
